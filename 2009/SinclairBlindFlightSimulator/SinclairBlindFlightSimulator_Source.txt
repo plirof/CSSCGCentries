@@ -1,0 +1,116 @@
+5 REM Sinclair Blind Flight Simulator 2009(c) - v0.004
+12 REM (c) Firelord Quality Games LTD (trister12[at]yahoo[dot]gr - Put the word "SPECTRUM" somewhere in the subject line if you mail me )
+13 CLS 
+14 REM ****Intro coding***
+15 PAPER 0 : INK 7:BORDER 0:RANDOMIZE :CLS
+45 PAPER 0 : INK 7:BORDER 0:PRINT
+50 FLASH 1 : PRINT "Sinclair Blind Flight Simulator 2009(c) ":FLASH 0
+54 PRINT "MS Flight Simulator gives you a very realistic idea of how it is to fly a big aircraft."
+55 PRINT "This Simulator will give you an idea of how it is to fly an aircraft when you're blind!!!"
+56 FLASH 1:PRINT "":FLASH 0 
+65 INK 6: PAPER 0: PRINT "Spectrum port by Firelord.": INK 7: PAPER 0 : PAUSE 0
+66 PRINT :LET l = 0:PAUSE 500
+1200 CLS:PRINT "You're sitting in the copkit. You can see nothing (you're blind). You hear some sounds & people talking."
+1210 PRINT "You have these options :"
+1220 PRINT "1.Feel arround and press EMPTY FUEL TANKS"
+1230 PRINT "2.Feel arround and switch on the engine."
+1240 PRINT "3.Feel arround and press the withdraw landing wheels."
+1250 INPUT "What do you want to do?",o$
+1255 IF o$="2" THEN GO TO 1300:GO TO 8020
+1256 GO TO 8020
+
+1300 CLS:PRINT "The engines started & the plane is moving. You can see nothing (you're blind). You hear some sounds & people talking."
+1310 PRINT "A voice from the radio tells you to use the takeoff runway that is in front of you. You have these options :"
+1320 PRINT "1.Turn the wheel left"
+1330 PRINT "2.Push the wheel Forward(which happen to be North:P)."
+1340 PRINT "3.Turn the wheel right."
+1350 INPUT "What do you want to do?",o$
+1355 IF o$="2" THEN GO TO 1400:GO TO 8020
+1356 GO TO 8020
+
+1400 CLS:PRINT "The plane started moving. You can see nothing (you're blind). You hear a woman explaining safety instructions."
+1410 PRINT " You have these options :"
+1420 PRINT "1.Turn the wheel left"
+1430 PRINT "2.Push the level near you (it feels like an power/accelerator level)."
+1440 PRINT "3.Turn the wheel right."
+1450 INPUT "What do you want to do?",o$
+1455 IF o$="2" THEN GO TO 1500:GO TO 8020
+1456 GO TO 8020
+
+1500 CLS:PRINT "The plane accelerates. You can see nothing (you're blind). You can hear the passengers talking."
+1510 PRINT " You have these options :"
+1520 PRINT "1.Pull the wheel (take off)"
+1530 PRINT "2.Do nothing..."
+1540 PRINT "3.Turn the wheel right."
+1550 INPUT "What do you want to do?",o$
+1555 IF o$="2" THEN GO TO 1600:GO TO 8020
+1556 GO TO 8020
+
+1600 CLS:PRINT "The plane is running. You can see nothing. You can hear the passengers talking."
+1610 PRINT " You have these options :"
+1620 PRINT "1.Accelarate more."
+1630 PRINT "2.Wait..."
+1640 PRINT "3.Pull the wheel towards you (take off)."
+1650 INPUT "What do you want to do?",o$
+1655 IF o$="2" THEN GO TO 1700:GO TO 8020
+1656 GO TO 8020
+
+1700 CLS:PRINT "The plane is running. You can see nothing. You can hear the passengers talking louder."
+1710 PRINT " You have these options :"
+1720 PRINT "1.Feel arround and press the withdraw landing wheels."
+1730 PRINT "2.Wait..."
+1740 PRINT "3.Pull the wheel (take off)."
+1750 INPUT "What do you want to do?",o$
+1755 IF o$="2" THEN GO TO 1760:GO TO 8020
+1756 GO TO 8020
+
+1760 CLS:PRINT "The plane is running. You can see nothing. You can hear the passengers talking much louder."
+1770 PRINT " You have these options :"
+1772 PRINT "1.Get out of the copkit & announce to the passengers that you are blind and its the first time you try to fly a plane."
+1773 PRINT "2.Scratch your nose & Wait..."
+1774 PRINT "3.Pull the wheel (take off)."
+1775 INPUT "What do you want to do?",o$
+1785 IF o$="2" THEN GO TO 1900:GO TO 8020
+1786 GO TO 8020
+
+1800 CLS:PRINT "The plane is running. You can see nothing. You can hear the passengers talking MUCH louder.They seem worried about something !!!"
+1810 PRINT " You have these options :"
+1820 PRINT "1.Feel arround and press EMPTY FUEL TANKS."
+1830 PRINT "2.Wait some more..."
+1840 PRINT "3.Pull the wheel (take off)."
+1850 INPUT "What do you want to do?",o$
+1855 IF o$="2" THEN GO TO 1860:GO TO 8020
+1856 GO TO 8020
+
+1860 CLS:PRINT "The plane is running. You can see nothing. You can hear the passengers talking MUCH MORE louder.You feel that they must be scared!!!"
+1870 PRINT " You have these options :"
+1872 PRINT "1.Turn the wheel left."
+1873 PRINT "2.Wait..."
+1874 PRINT "3.Pull the wheel (take off)."
+1875 INPUT "What do you want to do?",o$
+1885 IF o$="2" THEN GO TO 1900:GO TO 8020
+1887 GO TO 8020
+
+1900 CLS:PRINT "The plane is running. You can see nothing.":
+1902 FLASH 1: PRINT " You can hear the passengers SCREAMING in AGONY!!!!.":FLASH 0
+1904 PRINT " YOU HEAR KIDS,ELDERLY,WOMEN & MEN HEARING."
+1910 PRINT " You have these options :"
+1920 PRINT "1.Wait..."
+1930 PRINT "2.Pull the wheel (take off)"
+1940 PRINT "3.Put some music on the speakers."
+1950 INPUT "What do you want to do?",o$
+1985 IF o$="2" THEN GO TO 7000:GO TO 8020
+1987 GO TO 8020
+
+
+
+7000 CLS:FLASH 1:PRINT "Congratulations You've taken off plane without crashing!!!!!":FLASH 0
+7050 PRINT "The co-pilot that happens to be blind whispers -Have you ever think that there might be a time that the passengers might not scream?--"
+7100 PRINT:PRINT "Thank you for playing. Comming Soon :"
+7200 PRINT "Sinclair Blind Flight Simulator 2 - Flying the plane"
+7300 PRINT "Sinclair Blind Flight Simulator 3 - Landing the plane"
+8000 STOP
+8020 CLS : PAPER 0:INK 2 : FLASH 1 : PRINT "BOOOOOOOOOMMMMMMMM" : FLASH 0
+8030 FLASH 1:PRINT "You CRASHED!!!!!":FLASH 0
+8100 STOP 
+9000 STOP 

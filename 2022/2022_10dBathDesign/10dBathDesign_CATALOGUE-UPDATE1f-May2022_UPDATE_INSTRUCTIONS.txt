@@ -1,0 +1,14 @@
+1. Make sure there is no tape in your Tape Deck
+2. Insert Catalogue Update Tape in your Tape Deck
+3. Type LOAD "" and press ENTER
+4. Press Play in your Tape Deck
+5. Wait until you see a message on screen
+6. Press Stop in your Tape Deck
+7. Remove Catalogue update tape from your Tape Deck
+8. Insert Main Program Tape in the Tape Deck
+9. Press Play in your Tape Deck
+10. Wait until you see a message on screen
+11. Press Stop in your Tape Deck
+12. Remove Main Program Tape from your Tape Deck
+13. Insert Catalogue Update tape in your Tape Deck
+14. Press Play in your Tape Deck

@@ -1,0 +1,35 @@
+AvoidSanta 
+(3bit version)
+----------------------------------------------
+Thank you for paying money to buy this amazing holiday game! You can also pre-order the FindEasterBunny game! 
+The game features complex RPG elements. You select different characters with different behaviour!  
+Some characters can always find Santa and some others will never find him!!! 
+Choose wisely!
+----------------------------------------------
+Story so far:
+-There was a boy!
+-He found Santa
+-He exposed Santa!
+-Santa is very angry and seeks revenge!
+-Boy must avoid Santa by hiding.
+----------------------------------------------
+The game :
+It's Christmas time again and someone told Santa that you called the police.
+You begin your journey to avoid Santa!
+You select a location to hide. Santa has written an AI code to find your location. You must answer some questions that might -or not- help Santa track you down!
+----------------------------------------------
+Controls:
+1. Keys.
+2. Keys!
+----------------------------------------------
+Known Bugs:
+None - They are all features!
+The game has been tested at least 2 times for bugs.
+If by any chance you happen to find an actual bug then. you are mistaken!
+----------------------------------------------
+
+Copyright warning:
+The game is allowed to be distributed in the vicinity of the Milky Way Galaxy. Outside distribution is prohibited!
+
+Firelord Quality Games (c)
+For ZX Spectrum the CrapGameCompetition 2021

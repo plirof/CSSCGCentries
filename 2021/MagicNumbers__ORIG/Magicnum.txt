@@ -1,0 +1,31 @@
+5 CLS : FLASH 1: PRINT "\'.\'.\'.\'.\'.\ :\''\': MAGIC NUMBERS  \ :\''\':\{vi}\'.\'.\'.\'.\'.\{vivn}"
+6 FLASH 0: PRINT ';"Original code taken from";'';" '101 programs for SPECTRUM'": PRINT : PRINT : PRINT "Typed by JohnnyM"
+7 PRINT : PRINT "Version 1.00  12-April-2000": PRINT "e-mail:jghost1\@hotmail.com": PRINT '''
+10 POKE 23658,8: LET x=0: LET b=1
+20 PRINT "THINK OF A NUMBER BETWEEN";';" 1 AND 63";'': GO SUB 200
+40 PRINT "NOW YOU WILL SEE A SET OF                             NUMBERS."''"IF YOUR NUMBER IS HERE PRESS 'Y'                  ELSE PRESS 'N'"
+50 GO SUB 200
+70 CLS : GO SUB 1000
+80 PRINT "IS YOUR NUMBER HERE Y/N?"
+90 LET i$=INKEY$
+100 IF i$<>"n" AND i$<>"y" AND i$<>"N" AND i$<>"Y" THEN GO TO 90
+110 IF i$="y" OR i$="Y" THEN LET x=x+b
+120 IF b=32 THEN GO TO 150
+130 LET b=b*2: GO TO 70
+150 CLS : IF x=0 THEN PRINT "!!!ERROR!!!": GO TO 160
+155 PRINT : PRINT "YOUR NUMBER IS : ": FLASH 1: PRINT x: FLASH 0
+160 PRINT "PRESS ANY KEY"
+170 GO SUB 205
+180 RUN 
+200 PRINT '''"                  PRESS ANY KEY"
+205 IF INKEY$<>"" THEN GO TO 205
+210 IF INKEY$="" THEN GO TO 210
+220 CLS : RETURN 
+1000 LET c=1: LET n=b: LET s=1
+1010 PRINT (" " AND n<10)+" ";n;" ";
+1015 IF s=8 THEN LET s=0: PRINT '''
+1020 IF n>=63 THEN RETURN 
+1030 LET n1=n+1+(b AND c=b)
+1040 IF c=b THEN LET c=0
+1050 LET c=c+1: LET n=n1: LET s=s+1
+1060 GO TO 1010
