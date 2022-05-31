@@ -1,0 +1,2114 @@
+The Ultimate First Communion Simulator 
+by Mojon Twins
+Filename: ultimate-first-communion-simulator.tzx
+Platform: ZX Spectrum 48K 
+Score: 9.67	
+Ranking: 1st
+The winner of CSSCGC 2008 is a game that is fantastically crap! With vivid, 
+colourful and detailed block graphics and gameplay and plot that just ooze
+originality. It's got a pretty wicked streak of humour too which caused much
+hilarity when played with office workmates. But, what makes it hilarious for me
+is the final message at what you think is the end of the game, telling the
+player that they are still in the game for another 67 years. In effect I am
+still playing it now! It has also unsurprisingly been reviewed by
+SnakeOilSteve in one of the earlier CSSCGC 2008 tape magazines. 
+
+Crysis 
+by Radastan
+Filename: crysis.z80
+Platform: ZX Spectrum +2 
+Score: 9.50
+Ranking: 2nd
+This game was by far the most popular title of CSSCGC 2008, being mentioned on 
+various channels all over the Internet. It certainly caused quite a stir. 
+Firstly I should say it is truly amazing and technically brilliant. I never
+thought I'd see anything like this attempted, but the game surely works and
+it's pretty jaw-dropping to see something like this running on a speccy for the
+first time, even if the graphics are naturally blocky. It makes me wonder what
+possible things can be achieved even further into the future. People may say,
+well DP , this is far too good to be in 2nd place, but I'd have to reply,
+"play it" and you will see it is at heart another quintessentially crap gaming
+experience!
+
+Eat Sh*t! 
+by Radastan
+Filename: eatshit.z80
+Platform: ZX Spectrum 16K 
+Score: 9.29
+Ranking: 3rd
+This game is clearly hilarious. You positively can't help but laugh at the
+action of the head at the bottom of the screen as it eats the crap and the
+simple text comments are just brilliant. I was also amazed by the vast number of
+combinations of graphics characters in the program listing needed in order to
+give the crap a realistic animation. It only didn't win due to the technically
+of it more being like a sh*teating demo than a fully interactive game.
+However, half a point was clawed back for the funky haircut on the horizontal
+sh*teating maniac at the bottom of the screen. 
+
+Kabaddi
+by Paul E Collins
+Filename: Kabaddi.tzx
+Score: 9.01
+Ranking: 4th
+Platform: ZX Spectrum 16K
+A fascinating idea to base a game on Kabaddi, which poses the question "how
+would the dynamics of the sport be implemented?".
+The cunning idea of using the INPUT command in such a repetitive manner was 
+really what made this game truly crap I thought, so bonus points for that. 
+Also extra points for the large block graphics reminiscent of many Atari 2600
+cartridges. This game made me realise how awful I am at typing! We just
+need a "quick brown fox" type game similar to this one now so I can improve my
+skills across the whole keyboard! Of course I could have slowed down my typing,
+but as this is Kabaddi, I felt the psychological need to keep the pace up whilst
+playing.
+
+Turtogas 
+by Mojon Twins
+Filename: Turtogas.tzx
+Score: 8.76
+Ranking: 5th
+Platform: ZX Spectrum +2A/+3
+I love the intro sounds, reminiscent of a 50's B movie monster flick. Crapness
+abounds from the inability of the player sprite to change orientation, the
+complete sparseness of the play area, the dodgy collision detection with the
+dots. But an extra point is scored for the fact that when all dots are eaten,
+you just wonder around the dotless screen for eternity, or until you get killed.
+A nice touch and made me laugh anyway. 
+
+Virtual ZX Spectrum 
+by James Smith
+Filename: virtual2.tap
+Score: 8.53
+Ranking: 6th
+Platform: ZX Spectrum 48K
+An exquisite idea, and it actually really works! Certainly, this program has
+pushed out the limits of the crap game compo yet again and you can now run crap
+games within a crap environment, making them even more crap. I have to ask what
+level of motivation does someone have, going to such lengths to code something
+so brilliantly crap? 
+But then again the CGC relies on such hardcore dedication. This will be one to
+remember and we even had a stream of bugfixes and updates for it from the author
+who always provides an excellent level of support. 
+  
+Target Man - Deluxe Edition
+by Gavin Callard
+Filename: tmd.zip
+Score: 8.47
+Ranking: 7th
+Platform: ZX Spectrum 48K/128K/+2/+2A/+3
+A solid piece of crap game craftsmanship, and one that goes to the trouble of
+detecting which platform it is running on. Ticks all the right boxes in terms of
+unnecessary delays and humorous instruction screen. An extra point added for
+mentioning the word "bovril" somewhere in the on-screen instructions. Let's
+assume that you play the part of Lynda Bellingham trying to drive home from the
+supermarket (or was she OXO, I never can remember?). To increase the fun, play
+this whilst watching re-runs of "The Sweeney" on ITV4.  
+ 
+The REAL Phantomas Infinity 
+by Mojon Twins
+Filename: the-real-phantomas-infinity.tzx
+Score 8.42
+Ranking: 8th
+Platform: ZX Spectrum 48K
+Yes, I did it! I got to level 42 so I then went to dig out my old unofficial 
+"Level 42" T-shirt from the eighties, but it had been long since gone missing. 
+Great crap idea to have an "infinite" number of levels, however I'm questioning 
+if there really is an integer variable integer variable wraparound so that if
+you played this game until the Sun went supernova, would it reset back to zero? 
+Funny thing is you actually get quite skilful at playing the game after ten
+minutes or so. The game scores very well due to total lack of in-game objects
+(and objectives) also its ability to foster an atmosphere of despair, but in an
+oh so colourful way! 
+
+Scumball2
+by Woody
+Filename: scumball2.tap
+Score: 8.40
+Ranking: 9th
+Platform: ZX Spectrum 16K
+Now this one really is neat and any self respecting machine code hobbyist must
+gape in awe at this. Embedding the entire machine code for the game and the
+stack and variables too in the lower part of the screen must rank as something 
+to make you say.. "ecky thump! that's really neato..". Just think - a full game
+inside a .SCR file! You could upload the game and the screenshot to the WoS
+archives in one single upload operation and then earn yourself a cup of tea with
+the time saved. Again the game features overly good graphics and sprite routines
+from Woody, even if the playability is at CGC standards. But it's impossible not
+to be impressed with the whole concept. Woody even provided a POKE for this one
+which will no doubt end up in the Tipshop at some point!
+
+Bubble Fight
+by Arda
+Filename: BubbleFight01.zip
+Score: 8.39
+Ranking: 10th
+Platform: ZX Spectrum 48K 
+As I reviewed this one for the Dec tape mag, it's really no secret that I liked
+it. 
+As mentioned in the review itself this sort of thing really oozes a wholesome
+crapness, but IMHO of that peculiar variety that hopefully will be more
+forthcoming in the future crap game compos. 
+Not just that I actually enjoy the bubble sort game, but the "vicious panda"
+character really does give some extra amusement. 
+Surely a speccy game character to go down in a "top 100" game character list
+along with Dizzy the Egg, the slightly less famous Pippo and Gordon the Alien.
+The bubble sort algorithm was lifted from a type-in book - good to see someone
+is still using these type-ins even if it is just for the CGC.  
+
+ultimate eye surgery simulator
+by Dr BEEP
+Filename: eye.tap
+Score: 8.37
+Ranking: 11th
+Platform: ZX Spectrum 48K
+Think back to the movie "Flight of the Navigator", remember the scene where our
+young protagonist is within the alien spaceship (and life form) and he is
+introduced to all manner of creatures from around our galactic neighbourhood and
+beyond. Well, one of those creatures is a rather large eye, which actually
+screams "eye-eye-eye-eye" in English when disturbed. This is the basis for this
+game from Dr BEEP. Actually it isn't but I was reminded of this nevertheless.
+I mean the eye is just so huge! As previously mentioned it is reminiscent of
+operation games such as "Life & Death" on the ST/Amiga and others (actually were
+there any others?). If you can overcome any squeamishness you may have or fear
+of hospitals, then it's a satisfying and highly unique little diversion for a
+few minutes. 
+
+Multiload Hangman 
+by Paul E Collins 
+Filename: multiload_hangman.zip
+Score: 8.35
+Ranking: 12th
+Platform: ZX Spectrum 48K
+Frightened as I was by this game's on-screen insistence that I do not use any
+loading acceleration in my emulator, I did the right thing and booked a day off
+work in order to playtest it. (Not really but I think I was off this day anyway,
+fortunately!) After three and a half hours or so of watching Space 1999 DVDs,
+whilst keeping one eye on the game loading, it was apparent that my chosen word
+begin with 'M' or thereabouts. I lost the game in the end, but I needed to,
+since I had to get a decent screenshot of the hangman. Then of course I realised
+later that the author had already thoughtfully supplied an in-game screenshot.
+Nice original concept, so I give this one a high score. I think it will go down
+as the largest title (in bytes) ever submitted to ANY CGC competition to date.
+ 
+Martin Kelner's Scissors Paper Stone
+by Guesser
+Filename: MKSPS.zip 
+Score: 8.34
+Ranking: 13th
+Platform: ZX Spectrum +2A/+3 
+This game is crap on so many levels, it's frightening. First of all, the spectre
+of local radio late night shenanigans is let loose into the CSSCGC which is
+bound to "hit the ground running" when it comes to crap achievements. 
+It's an almost surreal translation of something that was perhaps lost in
+translation even in the original format and a seriously stale joke to boot.
+The hand animation at the beginning (presumably the element which requires the
++2A/+3 hardware) is just awesome, being even too funky for Gaz Top. 
+A well deserved high crapness score, and a Radio Leeds car sticker and balloon 
+to Guesser! 
+
+Stay on the Road 
+by Mulder
+Filename: StayOnTheRoad.tap
+Score: 8.30
+Ranking: 14th
+Platform: ZX Spectrum 48K 
+Now, that's what I call crap volume 1! A fine example of a game that has you
+"on the road to nowhere". A good crapness idea to have the green road effect
+obscure the player's car sprite at regular intervals and also have certain
+long, sharp corners seem almost impossible to escape from. You've just gotta
+love that extra touch of the block-graphic solitary cloud hanging in the sky.
+Indeed, a perfect day for driving towards the seemingly unreachable distant
+metropolis! Outrun it ain't, but for the crap game compo, it's just what the
+doctor ordered! 
+
+The Boat of Doom 
+by Graz
+Filename: THE_BOAT.Z80 
+Score: 8.25
+Ranking: 15th
+ZX Spectrum 128K 
+The in-game mechanics of this one would probably give "Sqij" a run for its
+money in the crapness stakes. 
+Brownie points earned for general sluggishness, no mention of the in-game keys
+prior to or during play. But the piece d'resistance is the suspension of the
+main game loop during the firing of the boat's torpedo. Excellent "riveted
+plates" on the left hand side of the screen almost reminiscent of high-octane
+action titles such as Xenon! Nicely done. A vintage crap entry for sure. 
+
+Didge's Dungeon
+by Paul E Collins
+Filename: didges_dungeon.tzx 
+Score: 8.09
+Ranking: 16th
+Platform: ZX Spectrum 128K/+2
+Sent in by Paul as his self-obligatory 4th crap game of the year. Sing with me 
+now "Four crap games in one year...". OK this is actually alright. I played it a
+fair bit and got familiar it. Dazzled as I was by the very professionally done 
+graphics, I'm also a sucker for any sort of game with puzzle elements and where 
+you move a sprite based entity around the screen, trying to solve it on a 
+per-level basis. For me it brought back vague memories of Boovie, but of course
+this is a totally different game with different rules and mechanics. Too good
+for the CGC but welcome it was nonetheless and the high score reflects the 
+quality that this title just oozes and serves as a hopeful encouragement for
+future CGCs that this is the level of effort that we like to see in the compo! 
+
+Oh My God! 
+by A. J. Moss
+Filename: god.tap 
+Score: 8.08
+Ranking: 17th
+Platform: ZX Spectrum 16K
+Here's another one that's actually quite good as games go. I've certainly spent
+many a weekend in my youth entering enormous type-ins into various 8-bit
+computers with the end result seldom looking as good as this graphically. It is
+a long time now between the submission of the game and the writing of these
+results (almost a year in fact) But IIRC, the author insisted that the game was
+nowhere near as good as it should've been - which makes it ideally placed to get
+a good score in the CGC as it stands. The "flat top" shaped head of the 
+crucified in-game messianic character looked suitably comical for this game and
+also the rather amusing use of an aerosol as a weapon just cries out 
+originality. I suppose rather predictably, I can't help but think of the "Always
+look on the bright side of life" tune when playing it.
+  
+Text-Only Grand-Prix 2009 
+by bobs
+Filename: TOGP.tzx 
+Score: 7.97
+Ranking: 18th
+ZX Spectrum 16K 
+This is certainly an artisan entry in the annals of the CGC. The thrills and
+spills of F1 racing completely neutered in the form of a text-only 
+boredom-athon. More than just a quick gag though, in this game each individual 
+track layout has been painstakingly entered into DATA statements in the pursuit 
+of an accurate and realistic text simulation. I just love the use of FLASH 
+attribute on the chequered flags on the track selection screen. Make your way 
+around one or two of the tracks by all means but a quest to play every track 
+would only be attempted by the insane.
+
+Mini GameZX 
+by Bubu
+Filename: MINIGAMEZX.z80 
+Score 7.88
+Ranking: 19th
+Platform: ZX Spectrum 16K
+This is a good example of a crap game. A nice green screen retro feel, and some 
+unique gaming ideas. Three minigames in one is a bit of a novelty in the CSSCGC,
+so nice effort. Of course all games are suitably crap, and there's not a 
+tremendous replay value. However, the games do run shockingly fast. In fact, a
+bit too fast for a crap game, we just don't expect such well optimised coding
+around these parts! Bubu clearly needs to study the source code from 
+"Un-space Invaders" by Apenao in order to "crap-up" his graphics routines a bit
+more. 
+
+Ultimate Jetpack Simulator 2008
+by Mulder
+Filename: UltimateJetpackSim08.tap 
+Score: 7.85
+Ranking: 20th
+Platform: ZX Spectrum 48K 
+A nice little exercise in infinite futility appears as you guide what I
+initially though was a pregnant woman down an un-ending tunnel. Oh no, wait
+that's not a expectant mother, it's the rocket booster strap making a bulge over
+the player character's belly! Truly though I was impressed, this is the sort of
+thing they would have loved to put in the Cassette 50 compilation, of that I
+have no doubt. We also know this one has depth, because (a) it takes place under
+the ground and (b) it starts to get difficult by level 21! In any case, Mulder
+is no doubt glad he wrote this one, after all it did win the CSSCGC 2008 raffle. 
+
+Elfen 
+by Garry Wishart
+Filename: Elfen.zip 
+Score: 7.84
+Ranking: 21st
+Platform: ZX Spectrum 128K/+2 
+A colourful visual treat awaits the player, as you play a God controlling the
+elemental forces of the game world. Watch the green beings suffer or thrive
+according to your choices. The game ticks many of the boxes expected of a crap
+game entry, including outrageously poor spelling and grammar and also a nice if 
+wholly irrelevant captured intro screenshot, so overall a very respectable
+score. You've also just got to love the "Press Some Key" method of proceeding
+through the instructions. Yes, which key this time?
+
+Hammy Time 
+by mulder
+Filename: Hammy_Time_v1.2.tap 
+Score: 7.82
+Ranking: 22nd
+Platform: ZX Spectrum 48K 
+This game is great. We can overlook the fact that Hammy the Hamster looks like a
+circus trained cat in this one, because it is just so darn enjoyable and
+colourful into the bargain too - the crap fun factor is high in this one. 
+Although I fear if this was submitted for inclusion on the original cascade
+tape, the prompt response would have been "Sorry, but we already filled our
+quota of one good game - "frogger", we are looking for 49 crap games. Tell you
+what, this one'll be a budget £1.99 release all of its own - how's that sound?" 
+
+Knot in 2D
+by BloodBaz
+Filename: Knot_in_2D.tzx 
+Score: 7.80 
+Ranking: 23rd
+Platform: ZX Spectrum 16K
+Out of BloodBaz's two entries this year, this is by far the best crap effort. 
+Guide your swiftly moving pixel around the screen avoiding hitting its own path
+or the edges of the play area. Perhaps the code could be adapted to make an 
+etch-a-sketch simulator? Clever intro screen which for a second tricks the user 
+into thinking they may be starting a 3D game, before "3D" changes to "2D" with 
+an accompanying low frequency BEEP sound. Brings us right back down to Earth
+with a bump like any crap game should do! 
+Verdict: A fair effort, but when held up against "Advanced PURPLE loading 
+simulator" it can only be described as pure genius! 
+
+Un-Space Invaders
+by Apenao
+Filename: UNSPACE.TZX 
+Score: 7.79
+Ranking: 24th
+Platform: ZX Spectrum 48K 
+Quite a respectable crapness rating for this one. The player is initially left
+confused as to what to do apart from moving aimlessly around the screen in the
+midst of the ongoing interplanetary battle and the frame rate is suitably low 
+for an invaders game written in BASIC. What really pushed this game up the 
+scoreboard though is the graphic routine which only allows you to see the alien
+sprites for about half the time, as they are rubbed out during the other half.
+Well done! Nice "alternative" game concept also. At least the UDGs are finely
+detailed and gleefully colourful.
+  
+Improved Advanced 16K Spectrum Emulator 
+by Andrew Owen, Dr BEEP & James Smith
+Filename: ImpAdv16KSpecEm.zip 
+Score: 7.78
+Ranking: 25th
+Platform: ZX Spectrum 48K
+This little known deep underground coding triumvirate (a.ka. "Tres Hombres")
+have done it again, sneaking this 12-byter out onto an unsuspecting compo
+spectatorship. In fact, if you can excuse the difficulty I was faced with on
+writing an entire paragraph on a twelve byte piece of code, I don't really have
+anything additional to say about this one apart from it does exactly what the
+BASIC version does, is about a million times faster at filling high-memory and
+has been expertly byte crunched by our optimising friends. The machine code
+trick used is one for the books though - use the source, Luke. It is a little
+known fact, but the ultimate 2008 crap game experience can be had by using this
+program to step through all of the 16K games in the compo and find out which
+ones work under it yet had missing UDGs in 48K mode (not that I ever did this).
+
+Hunchback '08 
+by Andrew Owen
+Filename: hb8.z80 
+Score: 7.77
+Ranking: 26th
+Platform: Timex TC2048 & Spectrum SE
+Ahh, the CGC '99 - a vintage year. The original version of this game was
+developed for that one. We are now of course all a little older, a little wiser
+- but a damn sight more colo(u)rful. As "The Who" might have sung - "hope I die
+before I use per-line colour attributes". But not in this case as the intro
+screen will surely blow your tights off. The game itself is a typical hunchback 
+affair, yet no worse than a similar Dragon 32 cartridge a firend of mine once
+paid good money for.
+Enjoy this all ye followers of the Timex- for this is your reward for possessing
+extra graphics capabilities. The reason, no-one else out there wrote anything
+else for it - apart from some BASIC extensions. (Although, seriously, I bet they
+did, but I don't know of it - I never did spy through the keyhole of the Timex
+scene)
+
+GoatFall
+by compiuter
+Filename: GoatFall.tzx 
+Score: 7.76
+Ranking: 27th
+Platform: ZX Spectrum 16K 
+This is certainly a crap game, and for all the right reasons. As you push the
+goat off the bell tower, the pitch of the BEEP increases as it falls. As the
+goat is moving downwards, I can't help but sit there and think "the BEEP pitch
+should decrease!" Add in a dramatic long wait for the "goat verdict" (like in
+some reality TV game show) and also the fact that the player has no control over
+the game whatsoever apart from pressing a single key (a lá "Eat Shit!") make
+this game achieve a respectable crapness score. A nice touch is the text screen
+describing the history of the goat throwing practice in this area of Spain. I've
+never seen anything like that sort of "Tourist Information Board" in a crap game
+before!  I should point out as it is mentioned in the game that this
+historical tradition has now been superseded by the throwing of a cardboard
+stone.
+    
+Escape from Niburon Prime
+by Woody
+Filename: Escape_from_Niburon_Prime.tap 
+Score: 7.75
+Ranking: 28th
+Platform: ZX Spectrum 48K/128K 
+Yet another showcase of Woody's advanced machine code skills and trickery.
+Marvel at the spaceflight segment, followed by the part where you have to escape
+a seemingly invisible maze on the planet's surface. Ho ho, you might exclaim! 
+"That's a funny gag, the maze is invisible. This is comedy genius, I must say." 
+But therein lies yet another twist unbeknownst to the casual player as I once 
+was.
+You see, revealing the secrets of this game is rather like peeling layers from
+an onion - i.e it may make you want to cry. Play this on either a real speccy or
+on the most recent versions of SpecEmu and you will actually see the maze become
+perfectly visible - due to some little known quirk causing colour1 PAPER on 
+colour2 INK to have slightly different intensity than colour2 PAPER on colour1
+INK! So think of this one as firstly a game, but secondly and emulator tester.
+Good score awarded due to this neat technical trick. 
+
+Don't Lose Your Head 
+by Woody
+Filename: Dont_lose_your_head.szx  
+Score: 7.74
+Ranking: 29th
+Platform: ZX Spectrum 48K 
+Again, top quality graphics and m/c sprite routines give an air of
+professionalism to this title which is on the face of it a crap gaming
+experience, yet a very funny one. Somehow this game is evocative of many cheesy 
+sci-fi B-move flicks from the 80's and you just have to admire the attention to 
+detail. I feel that if Woody got all of the best bits of his crap games together
+and sorted them out into some sort of coherent plan, there'd be an actual good
+game in there somewhere! This one entertained me for a while as I dreamt up
+countless amusing backstories for it. On the second pass of judging I was again
+taken aback by the artistic quality of the graphics and the absolutely perfect
+sprite drawn routines - so not quite crap enough for the top ten for example!
+
+Mr Yellow meets mr Cyan
+by Stefano Bodrato
+Filename: MRYELLOW.TAP 
+Score: 7.73
+Ranking: 30th
+Platform: ZX Spectrum 48K
+A pretty entertaining effort. Nice use of inappropriate, yet vivid colours,
+happily smashing the age old rule of only using dark objects on light
+backgrounds. Nice, tense atmosphere to the game. I can almost imagine those
+Mexican trombones playing as the game edges its way towards the final chilling
+climax. Is there still honour in death? There was even room in the 2x1 UDG
+graphics for the author to add a tiny but much appreciated gun belt! 
+Aah, it is indeed the little things that matter! Extra points awarded for
+such fine attention to detail.
+
+Silent Letter Shootout 
+by bigjon
+Filename: sls.tzx  
+Score: 7.72
+Ranking: 31st
+Platform: ZX Spectrum 16K
+Good crapness here, reliving the days when all children feared any game title
+that was marketed as educational. Of course as soon as dad's back was turned,
+the speccy would be reset and Daley Thompson's Decathlon would instead be
+loaded up. Mercifully it is a quick game, and with a limited number of words. 
+One extra crap point scored for the fact that the letters don't get deleted off
+the top row of the screen, and just stick there if they miss the spaceship
+target. A lot of people thought it was amusing that Jeff GoldBlum defeated the
+alien invaders with an Apple Mac - we all know he really should have been
+armed with a ZX Spectrum!
+
+Identity Parade 
+by Woody
+Filename: IdentityParade.szx  
+Score: 7.71
+Ranking: 32nd
+ZX Spectrum 48K 
+Woody's superb rendering of urban United States during the first phase of this
+game gets everything right. The dollar signs in the shop Window. The
+motorcyclist driving (just about) on the right of the road. This also is a retro
+game with traits of far more modern games. Because, what we basically have here
+is a non-interactive cutscene. As for the interactive part of the game, well
+it's a quick gag meaning success is again in the hands of pseudo random elements.
+Or at least I think it is. I can't be totally sure, as I don't think I ever
+actually won the game. In any case - a reasonable score for the time and effort
+- the graphics are indeed memorable and really just of outrageously high
+quality I have to say. 
+
+Helen 'nnngggghhh' Keller's Super Off-Road Racer 
+by Anne 'Two taps' Sullivan
+Filename: hkorf.tap 
+Score: 7.70
+Ranking: 33rd
+Platform: ZX Spectrum 16K 
+This one caused much distraction in the workplace when workmates started playing
+it. For those who didn't know who she was, Helen Keller was quickly Googled for
+followed shortly thereafter by a rapid scan of her Wikipedia article.
+A solid representation of what it is like to lose the sense of sight is
+frighteningly realised here in this brutally all-too-real simulation.
+It can only end in tears - and I hope that's not tears of laughter you
+heartless bunch! The loading screen needs framing and sticking in the Tate.
+
+Road Crosser 
+by Woody
+Filename: RoadCrosser.szx 
+Score: 7.69
+Ranking: 34th
+ZX Spectrum 48K 
+Horace goes skiing without the skiing (or Horace). Instead the protagonist
+consists of a rather helpless stick-man stranded on the wrong side of the road.
+8 lanes of identical cars mercilessly stream past. This is a sort of "Warhol" of
+Frogger type games. The repetition - it's almost a social commentary on how
+everyone's lives have become the same in this endless daily grind, but just
+where on Earth are all those cars going? It can be quite tricky this one if you
+are little impatient So sit back and get a feel for the timing and eventually
+you can master this game. Subsequently, you may become super confident and
+start darting across multiple lanes in one fell swoop. Eventually though it will
+end in a fatality I'm sorry to say. 
+
+200. Yes, 200 but with da big balls
+by Apenao
+Filename: 200.TZX 
+Score: 7.68
+Ranking: 35th
+Platform: ZX Spectrum 48K
+I like these little mini-game submissions, because if you dislike one of the
+mini games then you can always move onto the next one and dislike that one too!
+This title has the restriction that you can only get into the later mini-games,
+having earned it by playing the earlier ones first. 
+Crickey, I must watch "300" at some point although I've had it in my film 
+collection for ages I haven't got around to watching it just yet. I have to say 
+though that some time and effort has clearly gone into making this game, for 
+which the CGC is grateful. Also I like the way each mini game is coloured 
+differently (And quite colourful they are too) and there are some nicely done 
+UDG graphics. Yet, the game is steadfastly loyal to the realm of crapdom. 
+So pat yourself on the back Apenao - a pretty good score. 
+ 
+RPS
+by steve
+Filename: rps.tap 
+Score: 7.62 
+Ranking: 36th
+Platform: ZX Spectrum 48K
+A good showcase for demonstrating some of the capabilities of using Z88DK over
+pure BASIC. The sliding screens found in the game look undeniably slick and the
+block graphics are vibrant and supremely well drawn. 
+Great effort with superbly drawn screens (Including those of the Pacman games,
+which to me is always a welcome addition). Also thought it was a nice touch that
+this game is specifically branded with a CGC '08 screen. Could've scored higher 
+in the crapness stakes if written in BASIC, but I'm so glad it wasn't as the
+resultant game is actually much better, having a real "Video Game" feel about
+it. I can almost image playing this one in a MAME cabinet or something.
+Seriously, nice work!
+
+Advanced Betting Simulator 2008
+by Gavin Callard
+Filename: HRS.Z80
+Score: 7.54
+Ranking: 37th
+Platform: ZX Spectrum 16K
+A considerable effort must've gone into generating the large number of comical
+horse and race names. However the fact that the horse graphics are just too 
+professional and the correct racing colour of green was used make the game too
+"good". Perhaps if the official crap game colour of magenta were employed,
+the score could've been increased by half a point. Thankfully though, the score
+was boosted by incorrectly rounding pounds and pence and by requiring awkward
+key presses to advance the game. Of course there are also the instructions,
+which have the gall to refer to the player as "You sad git". How did he know,
+is there a webcam in here or something?
+
+The Ark in Space 
+by Graz
+Filename: ark_in_space.Z80 
+Score: 7.49
+Ranking: 38th
+Platform: ZX Spectrum 128K/+2
+OK, this is one of those games that made me really glad I did two passes of 
+judging in this compo! For many of the entries I more or less got it right on
+the first pass, but this game took a little bit longer for me to suss out.
+When I played it for the first time, I admit I didn't have a clue what was going
+on. On subsequent plays I got a bit further with it, getting all the way up to
+"LOCATE INFRASTRUCTURE". The graphics on the space station in orbit around the
+planet are superb as are the those of the enemies such as the Wirrn. A decent
+crap game effort, featuring chip music on the intro screen. It's always a
+pleasure for us fans of old series "Who" to combine that hobby with retro gaming
+which doesn't happen all that often! Another amusing touch is that the 
+"Instructions" are actually the backstory rather than the instructions which is
+possibly why I didn't immediately "get it" on my first attempt at playing it!
+
+UFO: UK
+by Chris Young
+Filename: ufo.tap
+Score: 7.38
+Ranking: 39th
+ZX Spectrum: ZX Spectrum 16K 
+Inspired by the classic game "UFO: Enemy Unknown", this apparently hastily put
+together entry is rather hilarious. Taking less than an hour to write according
+to Chris, the game nevertheless retains that air of mischievous "off the wall"
+humour and jokey cynicism that characterise many of his other works.
+First judging pass I wrote:-
+"As I write this though I enter a state of mild panic as I realise that the
+compo isn't halfway though yet, and in one previous year Chris submitted 14 
+games to the CGC. How the heck am I still going to find interesting (or even
+dull for that matter) comments to write about on that many possible further
+games? Let's hope he doesn't do that to me! "
+Second judging pass:-
+"Phew, looks like things turned out fine just after all no matter how many
+games were sent in, but why do I still keep getting recurring nightmares
+featuring UFOs?"
+ 
+More Tea Vicar 
+by Gavin Callard
+Filename: MTV.zip
+Score: 7.26
+Ranking: 40th 
+Platform: ZX80 1K, ZX81 16K, Cambridge Z88, Jupiter ACE, ZX Spectrum 16K
+	& Sinclair QL
+The game is certainly crap, but hey if it's good enough for a mainstream TV 
+channel, then it's crap enough for us! You just can't underestimate the glee I
+had as I undertook the surreal experience of having to playtest the game many
+times, not least on the Cambridge Z88 when I knew nothing about that platform 
+until last year. So, I admire the style of this multi-platform release. 
+Educational it was too, from an emulation learning standpoint. The game has
+probably resulted in the creation of many more machine categories in the CSSCGC
+than any previous game before it, so for that at least it will be well
+remembered! 
+Also, it begs the question "What was the most useful piece of software released
+for the Z88?" Was it this, or did it have a huge underground p*rn market?
+We never did get a Sam Coupe version though. Talk about seriously missed
+opportunities! tut tut. To be fair though, I believe there was an issue with
+keyboard mappings on the Sam Coupe emulator on Gavin's PC. 
+And so, the CGC remains "Sam Coupe-less" for another year.
+In any case, kudos for writing the FORTH version for the Jupiter ACE, one of
+only two crap games ever (intentionally) written for that platform in its entire
+history! I also believe this to be the only ever crap game entry for the
+"Sinclair QL". Brilliant, and hence this oversized write-up. Just don't let 
+actually playing the game spoil all of these CGC-firsts!
+
+20 Questions 
+by Steve(spt)
+Filename: 20Q.zip
+Score: 7.25
+Ranking: 41st
+Platform: Jupiter ACE 
+The main question is how this program works internally? Certain words seem to
+generate a positive response whereas most words give a negative answer. I never
+did get around to examining the FORTH source to reveal the complex machinations
+or otherwise "under the bonnet" on this one. How intelligent can a Jupiter ACE
+become? Nevertheless, the game is undoubtedly crap, and I give it a good score,
+because the author kindly bailed me out when I had a rather silly looking ACE
+arcade page with only a single game in it! 
+Again, this will go down as only one of two crap games for the Jupiter ACE
+submitted to the CGC, since as we all know it is not actually a Sinclair
+machine. Certainly it is a "Sinclair derivative", although one which went down
+its own development path, thanks to FORTH!
+Will ACE games ever be allowed in the CGC again? I don't honestly know, but it
+was good to have them on board in this experimental CSSCGC 2008!
+Since I played this game, I was introduced to another web based 20 questions
+game. This made me realise that this submission is like that web game, but with
+human and CPU roles amusingly reversed. 
+The only "secret" I have found so far in this program is that the delete key
+doesn't work - so watch out for that and type carefully!
+
+The Eric Morcambe Catching Invisible Things in a Bag Simulator 
+by Ben Rapier
+Filename: EMCITIABS.z80
+Score: 7.23
+Ranking: 42nd
+Platform: ZX Spectrum 128K/+2 
+A nice diversion I found this, after seemingly endless onslaught of previously
+reviewed pure-text entries and/or with "Simulator" in their title. Oops, I just
+noticed, this one also had "Simulator" in the title, still it has no lawnmowers
+in it, unless of course one of the things caught in the bag is an invisible
+model lawnmower. Anyway - the game is one which alludes to some distant popular
+culture of some years ago, and is completely impossible to play - so another one
+for CGC purists. Sweet. The "bag" also makes me want to go out and drink a pint
+of Guinness, in fact more so than most of the currently unfathomable Guinness TV
+ads. Nice use of small font text driver, which was unexpected!
+ 
+Twenty Commodes 
+by James Smith
+Filename: vic20-177.zip
+Score: 7.20
+Ranking: 43rd
+Platform: ZX Spectrum 128K & ZX Spectrum 48K 
+With this one, Jimmy managed to exceed even his own usual standards, by breaking
+new ground with this VIC-20 emulator for the speccy. I have to confess to being
+addicted to using this one as it re-awakened nostalgia of messing around on my
+VIC-20 as a young child. So much so I ended up even developing a couple of
+simple BASIC games within the emulated system, not that I should admit this
+publicly. Again, it has to be said this program cannot win the competition as
+it is by far too good an entry! I gave it a controversial high score though as I
+have to respect the achievement even if it was entered into the "wrong" compo. 
+Can't be helped though, since there is no compo called "8-bit emulators" as far
+as I know. Just a reminder:- this entry is a real emulator, not a joke one! 
+Verdict: One for the WoS archive. 
+
+Mode2 Tile Editor 
+by Andrew Owen
+Filename: Mode2TileEditor.zip
+Score: 7.18
+Ranking: 44th 
+Platform: Timex TC2048 & Spectrum SE
+Aah, how I welcomed Timex entries with open arms into CSSCGC 2008 and glad I did
+too. Clearly it has added another dimension to the compo this time around. I 
+just love those pretty little colourful sprites that appear on the screen on 
+loading this one up. Strangely, this reminded me of my days of using the STOS
+sprite editor on the Atari ST. This will no doubt be useful to people writing 
+Timex games - I infer this by the number of times it was downloaded. My only
+disappointment is that no third parties took it upon themselves to employ this
+to submit yet another Timex entry, but I guess the number of Timex developers
+is but a tiny fraction of speccy developers and alas nothing happened. 
+However, who knows if there will ever be some sort of Timex Hunchback sequel? 
+It was regrettable that this one could not be made available in the online "crap
+game arcade", due to current lack of a Java based Timex emulator.
+Anyways, thanks to this program, today I inverted a snake.
+
+Dot Man 
+by Woody
+Filename: DotMan.szx 
+Score: 7.14
+Ranking: 45th
+Platform: ZX Spectrum 48K 
+It is crap this one, but in a delightfully retro way. Firstly, you can't die as
+far as I know. I was wondering why there weren't any ghosts in this pacman-type
+affair. Then I realised that because the play area is blown up (A bit like
+zooming in with a microfiche) if there were ghosts then you would not even see
+them until they appeared on the adjacent square to the player by which time a
+gobbling would be unavoidable. You should clear the maze (which once you have
+started, you just have to finish - hunting down those annoying lost last couple
+of dots). Then pat yourself on the back and play an exactly identical maze all
+over again! 
+
+Rescue Planet Earth
+by Woody
+Filename: Rescue.tap 
+Score: 7.12
+Ranking: 46th
+Platform: ZX Spectrum 128K/+2 
+Due to my previous ramblings on the CGC site, many know I'm a Dr Who fan, 
+stubbornly of the old series only. So, there I found myself liking this title
+which involves the movement of planet Earth around the galaxy. This actually
+happened during the Colin Baker era. I now think I have realised that this
+game is set in that era, because the Tardis itself appears wide and chubby, no
+doubt accommodating this particular incarnation. Again, you can't fail to be 
+impressed at Woody's clear m/c mastery diverted down a CGC avenue, as one can't 
+help thinking there's got to be some none-crap games along the pipeline 
+somewhere! Fast and yet it is arguably crap gameplay wise, but too darn smooth 
+and good, technically speaking. IIRC Woody updated this one with a version that
+was much improved and even faster than the original!
+ 
+The Sudoku Challenge 
+by Gavin Callard
+Filename: Sudoku.zip 
+Score: 7.09
+Ranking: 47th
+Platform: ZX Spectrum 16K & ZX Spectrum 48K
+The first Sudoku puzzle I threw at this one was solved after 906,105 
+iterations, meaning I had to resurrect the hyperfast JPP emulator from 1992 in
+order to see the game completed. I calculated that on a real speccy, the puzzle
+would have been solved in a little over twelve and a half days. Meaning that if 
+you can't beat the computer within that sort of time frame, then you probably do
+deserve to lose the game! The brute force algorithm is quite mesmerising to
+watch in a fast emulator as the numbers fly back and forth across the screen, 
+like there is indeed some diabolical intelligence going on behind the scenes,
+although we know it uses a brute force method. Also, it sparked international
+interest with avid followers of this entry now meeting annually. (well not quite
+but a few e-mails flew around after this one was released, I can tell you!)
+  
+SUICIDE IT 
+by Radastan
+Filename: suicida.z80
+Score: 7.07
+Ranking: 48th
+Platform: ZX Spectrum 16K
+A game that gets straight to the point. Nothing is wasted, well apart from 90%
+of the screen area. But I do like the minimalist approach taken by the author.
+Dark humour is always bound to score quite well and the game is "open ended" 
+with no predetermined end to the "fun". The "death sequence" whilst a potential
+stress buster could have really benefited from just a little variety, perhaps
+extending the longevity of the title. I somehow feel that the potential of this
+game idea was never fully realised. Clearly the game takes place in a rural 
+setting with a green field and a wheat field providing a serene backdrop to the
+deathly antics of the suicidal maniac. Will there ever be a city version made?
+
+Boofy 3 
+by Slider
+Filename: BOOFY_3.rar  
+Score: 7.06
+Ranking: 49th 
+Platform: ZS Scorpion 256K
+First impressions show this machine code game as something a bit better than
+most crap game entries, since it boasts parallax scrolling and sprite routines,
+however once you start to play it, you realise that it is truly a crap game. 
+The pure torture of having to walk at a slow pace for 1000 in-game kilometres is
+something akin to attempting the London marathon whilst walking only on your
+knees. You cannot jump over the enemies and when you die you lose a life and 
+you have to wait several seconds before resuming play due to an overlong "death"
+subroutine. Overall a fair crap game, and appropriately in the TRD format. An
+antidote to Sonic the Hedgehog for sure, so break out your Scorpion compatible
+emulator tonight!
+
+Fluke 
+by Chris Young
+Filename: fluke.tap
+Score: 7.05
+Ranking: 50th
+Platform: ZX Spectrum 16K 
+Loved the reckless randomness of the PAPER and INK colours, which meant I was
+blessed with an almost illegible white text on yellow screengrab for the
+website. It is legible if you squint both eyes, and don't mind suffering a
+thumping migraine later on in the day. Good use of familiar British place names
+helps build the atmosphere in this exceedingly crass game. I don't watch much TV
+anymore, but if I did, I bet this program is on most weekdays. Barring it being
+taken off the air due to an unexpected large scale war, celebrity wardrobe
+malfunction or some similar disaster. My God, that spinner just goes round and
+round until you are about ready to give up on the game and then about another
+minute longer. Cheers for that patience-testing element - I just cleaned a fish
+tank out whilst waiting for it to finish!  
+
+Game of the Yet to come
+by Apenao
+Filename: yettocome.tzx 
+Score: 7.04
+Ranking: 51st
+Platform: ZX Spectrum 16K 
+Excellent! Spooky loading screen sets the tone for what I think is going to be
+some really mysterious "Twilight Zone" style capers. Imagine the hilarity that
+ensues as this game is really a set of instructions in how to assault your
+opponent in traditional slapstick style. Multiplayer only unless you are some
+sort of masochist who likes to apply pain to themselves. Actually, you are
+interested in the CGC and are reading this. Therefore you must be a masochist! 
+Joyous overuse of the FLASH attribute and vivid colours makes the text-jumbled
+screens enough to give anyone a headache, but that's nothing compared to the
+headache you'll get if you actually play it as "player 2". 
+
+Advanced Lawnmower Starter Simulator 2
+by Steve 'sparkes' Parkes
+Filename: lawnmower2.sna
+Score: 7.03
+Ranking: 52nd
+Platform: ZX Spectrum 48K
+Clearly this game has to be given a slightly higher score than it's predecessor,
+as it is a sort of de-luxe, refined version. The electric starter does all of
+the work for you, so no effort need be expended by repeatedly tapping the
+keyboard. A superb game for anyone who is bone-idle, and again you've just got
+to love the futility of it. The sound effects are top-notch proving once and for
+all that the BEEPER is the ultimate digital sound system! Of course we
+expected nothing less after playing the prequel. What can I say, other than 
+great for people in a hurry. You can play this one over a bowl of coco-pops
+in the morning! 
+   
+Crap Games Competition - The Adventure 2008
+by Firelord
+Filename: CrapGamesCompetitionTheAdventure2008.zip
+Score: 7.02
+Ranking: 53rd
+Platform: ZX Spectrum 16K 
+A nice "meta game", where I found I could play the part of myself, "Digital 
+Prawn", but that would have made it too easy for me. 
+So I played as "blood" instead. I can only assume that Firelord
+managed to build up a psychological and personality evaluation of each Judge,
+in order to give this game a sense of heightened realism. Was this done from
+reading form posts and scanning websites, or were phone-taps and surveillance
+equipment involved too? It doesn't get any more CSSCGC-centric than this!
+  
+Sim City: The Text Adventure 
+by Unsatisfactory Software
+Filename: simcity.tzx
+Score: 7.01
+Ranking: 54th
+Platform: ZX Spectrum 16K 
+Billed as retaliation from last year's judges for my sins committed in 
+CSSCGC 2007, this game whilst being pretty damn bad isn't the absolute torture
+it was designed to be. It comes pretty close though. Mention of anything to do
+with Russel Bland is enough to make some of us as nauseous as a first time space
+tourist, so it does succeed at least on that level! Nice use of dark blue on a
+black background and "scroll?" messages pervading during gameplay adds to the
+general feeling that some genuine effort was spent on trying to screw things up,
+perhaps it could have been screwed up even more! Of course, not as much as 
+Russell Brand himself did after this was submitted. Uncanny that!
+
+UK101 emulator & MTV - 70's style 
+by James Smith (includes MTV by Gavin Callard)
+Filename: UK101-More.zip 
+Score: 7.00
+Ranking: 55th
+Platform:  Timex TC2048, ZX Spectrum 128K, ZX Spectrum 48K
+This is the great thing about the CGC, two people collaborate to bring this
+quite unique entry to our attention. In fact I'll be judging this one purely 
+as James' entry but credit must be given to Gavin Callard for taking on the 
+challenge of porting his game to this obscure emulated platform! 
+To clarify - Jimmy solely wrote the emulator, Gavin Callard solely wrote the
+MTV game that runs on top of it.
+As for the emulator itself, again it's a real genuine emulator and another 
+technically impressive feat from Jimmy who has now built himself a reputation of
+entering titles that are far too good for the the CGC. Of course we really enjoy
+playing them anyway. I never even knew what a "UK101" was until this one was
+submitted!
+Best played on a Timex to view all of the text columns of the emulated machine.
+Verdict: Good stuff, but please something crap as well for the next CGC just so
+we know you can make something crap! 
+
+CAR 
+by Arda
+Filename: cargame.zip  
+Score: 6.99
+Ranking: 56th
+Platform: ZX Spectrum 48K 
+In the UK, motorways, major highways and regional and national trunk roads are
+maintained 100% by the highways agency and are generally kept in very good 
+condition. Other A-roads, B-roads and unclassified roads however are funded to 
+varying degrees by local councils and the results are unpredictable to say the 
+least. Some of them are strewn with potholes, as depicted in this game. The 
+ASCII-rendered car and road makes this exactly the sort of game that would be 
+found in many type-in listings books, back in the day. Watch the road ahead or 
+you may find the wheels come off. It's crap in its own way and yet somehow quite
+playable so a reasonably good score awarded. Please note also that this game is
+around twenty-four years old as I write this!
+
+Advanced 10 PRINT "Hello " 20 GO TO 10 Simulator
+by Shaun Bebbington
+Filename: PRINT''HELLO''.zip  
+Score: 6.98
+Ranking: 57th
+Platform: ZX Spectrum 128K/+2
+Well, this one amused someone enough that they wrote another game based on it.
+Not the first time this happened in CSSCGC 2008. Who'd have thought the compo
+would be such a source of erm.. creative inspiration, yes, that's it. What ever
+else may be said about this title, no-one can accuse it of lacking in features.
+Although if I remember correctly, someone actually did just that, bemoaning the
+lack of a BRIGHT feature. Still, the "Test Parameters" option is something that
+was thoughtfully provided in a mission-critical app like this - albeit in this 
+case the "Test Parameters" option is the actual program itself. For CGC purists,
+note the misspelling of "program", an easily missed final touch.
+
+The Skier 
+by Woody
+Filename: The_Skier.szx
+Score: 6.97
+Ranking: 58th
+Platform: ZX Spectrum 48K
+As the Who may well have sung in an alternative universe:- "I've looked under
+chairs, I've looked under tables. I've tried to find the key To fifty million
+fables: They call him The Skier....  I've been searching low and high.... I 
+won't get to get what I'm after Till the day I die!". Apart from that what can I
+say? It's another vertically scrolling skiing game in which the trees seem to 
+individually "walk" up the hillside, out of sync with each other. Excellent
+insane grin on the face of the large headed magenta protagonist. Skiing 
+shouldn't be that much fun, well not unless your skiing pants are on slightly 
+too tight. 
+     
+Advanced Lawnmower Starter Simulator - The petrol edition
+by Steve 'sparkes' Parkes
+Filename: als-petrol.sna
+Score: 6.96
+Ranking: 59th
+Platform: ZX Spectrum 48K
+I liked this one. After looking at the code, I did enjoy the author's attention
+to detail. Namely the realistic sound effects of a frustrated engine (written in
+assembler), but mostly the fact that the game really does give the player a 
+1:1000 chance of winning the game. I have still not completed this one yet. 
+One day, one day! How many lawnmower games is that so far, erm.. I've lost count
+at this point. Inevitably, this one ranks lower than the deluxe edition, or it
+just wouldn't be right!
+
+Mushroom Man 
+by Hajo Spuunup
+Filename: Mushroom.zip 
+Score: 6.95
+Ranking: 60th
+Platform: ZX Spectrum 128K/+2
+This game is based on a Windows puzzle game of the same name, by Paul E Collins.
+It is absolutely not crap. Even during the judging of this game I got carried
+away and ended up completing the first twenty levels or so. If a game is this
+addictive to a puzzle freak like myself and also has charming UDG colour 
+characters then it will forever be remembered as a good game and fondly so. 
+If logic dictated the scoring system of this compo, then I'd give it a really 
+low crapness score. However I instead chose to give this higher score out of 
+respect for the effort involved that must have gone into this. The speccy
+scene needs more games like this and I not really talking about the CGC!
+
+Advanced Fruit Machine Simulator
+by Woody
+Filename: Fruit2.szx 
+Score: 6.94
+Ranking: 61st
+Platform: ZX Spectrum 48K
+What we have here is a carefully crafted game which certainly takes me back
+nostalgically to the early eighties when I could barely see the pale yellow
+lemons on my black'n'white telly as I attempted to play similar games back then.
+Behold, the addition of the HOLD feature almost doubling up the fun-factor as
+Woody submitted the second version of this title. Dr BEEP had pointed out he
+likes his reels spinning in the opposite direction and so Woody kindly obliged
+and the result is this version which I judged. The game is crap because the reel
+"scrolling" is discrete and not done at the pixel level so a tip of the hat for
+getting that wrong (I mean right in the context of the CGC of course). 
+Play till you run out of money (unlikely) or patience in which case you may well
+decide to reset your speccy with 2p still in the game balance (tut tut). 
+  
+Advanced 10 PRINT "HELLO "; 20 GOTO 10 Simulator 128K Edition 
+by Ben Rapier
+Filename: A10P20G10.z80 
+Score: 6.93
+Ranking: 62nd
+Platform: ZX Spectrum 128K/+2
+The first of Mr Rapier's double whammy and another reminder that 48K-only
+owners are missing out on a lot of fun here! 
+You will take to the "game" itself like a duck to water, particularly if 
+you are familiar with the Sinclair BASIC environment. Needs the RAMDISK to work,
+making it somewhat of a skilful investigation into "how to do less with more". 
+Ultimately, though the flexibility of this title is only limited by the
+imagination of the human participant, and by the Speccy's ULA. Oh yes, large
+print font on the intro screen. We like resized text tricks like those ones in
+our "advanced speccy programming" books - Goodo. 
+
+Advanced Lawn Mower Simulator+ Expansion Pack
+by Arda
+Filename: alspluspack.zip 
+Score: 6.92
+Ranking: 63rd
+Platform: ZX Spectrum 48K
+I have an inexplicable enthusiasm for game add-ons. So, imagine the joy I
+experienced as I inserted this game tape and then downloaded and inserted the
+original lawnmower tape. Playing this add on game with ease. Nice of Arda to
+provide the user with the WoS download link to the original game, functional at
+the time of writing. Will there be lifetime support on this if the link ever
+changes I wonder? Anyway, can't say I was blown away with what the add on
+offers, but it gave me half a titter. Well done on thinking up the "add-on"
+idea though.
+
+CrapBot
+by Woody
+Filename: CrapBot.tap 
+Score: 6.91
+Ranking: 64th
+Platform: ZX Spectrum 48K
+Ironic that this is the title that Woody went all out on to try and lose the
+compo. I know this depends on the judge, but for CSSCGC2008 (as it was also last
+year), the games that lose the compo are "five minute affairs". I should know,
+I wrote one of them 2007 which is why I am sitting here writing this now. 
+This one of course is actually quite good with a real-time user-rotatable
+isometric display. Flawless animated graphics and a real sense 
+of purpose. Of course you are going to think "Ant Attack" when you see it, but
+the sprites are completely re-drawn and the game effectively a completely
+different one. This means I'll just have to give it a reasonable score (not too
+high, not too low). I know that Woody wanted to either win the compo or lose it
+I just hope that by ranking this game almost in the middle of the ordering does
+not maximise his disappointment!
+
+Redefine Keys The Adventure 2008 
+by Firelord
+Filename: ZXRedifineKeyboard-Theadventure_v2.zip  
+Score: 6.90
+Ranking: 65th
+ZX Spectrum 16K 
+A thoughtful prominent spelling mistake appears in this send up of the perennial
+agitation caused by overly complicated "define keys" screens. This entry takes
+the concept to a stupendously frustrating level. I may have been tempted to name
+this one "Redefine Keys The Ordeal 2008", as for me use of the word "Adventure" 
+somehow conjures up mental images of an apple and a loaf of bread in a knapsack
+and the slaying of an orc with a silver sword. I don't think you can possibly 
+win this game, but after several minutes of playing I'd say that my willpower
+had been sufficiently drained to the point where I just wanted to escape it. So,
+job well done in that respect!
+
+Ultimate Anger Simulator 
+by The Mojon Twins
+Filename: Anger_Simulator.rar 
+Score: 6.66
+Ranking: 66th
+Platform: ZX Spectrum 48K
+This game is quite evil, but in a completely humorous way and funnily enough
+it has an approximate natural score of 6.66. Don't be breaking your keyboard
+over it though, as I can imagine the knowing laughter of the Mojon Twins as they
+put this game together. Nice little jape at the expense of the player and
+vividly realised background graphics to boot. Perhaps it should be called 
+"Ultimate Anger Causer". Overall a good crap game effort and commendable that
+the C source code was provided. I had a thought that if this game was ever made
+for the ZX81 and someone tried playing it on a real machine, then the anger
+could probably be magnified a hundredfold or so.
+
+LOST 2008 - The Adventure
+by Firelord
+Filename: Lost_TheAdventure2008_v03.zip 
+Score: 6.63
+Ranking: 67th
+Platform: ZX Spectrum 48K 
+The second LOST game entered into CSSCGC 2008 makes me wonder what it is about
+this TV series that has seemingly given it a lasting cultural impact. (alas I
+have not seen it yet) Again, an amusing array of input options is provided on
+the start screen, which is the hallmark of a Firelord release. We have come to
+expect nothing less! I take it the main point of this game is to highlight how
+each episode is painfully dragged out, which does seem to be a feature of many 
+current day TV series. A unique and original touch is the inclusion of digital
+photographs for viewing on a PC. These are critical for playing the game, since
+they are referenced from the in-game text in lieu of actual ZX Spectrum
+compatible images. The resolution may be much better this way, although I can't
+help but speculate what the result would've been had these images been run
+through a .SCR converter - crapper than this I presume?
+
+Mind Game
+by Woody
+Filename: Mind_Game.szx 
+Score: 6.62
+Ranking: 68th
+ZX Spectrum 48K 
+This one momentarily gave me flashbacks of an obscure PC game from the mid-90's
+called "Mind Grind", but I don't know why I'm mentioning it here since no-one
+else on the planet has played it apart from me. I pitted my wits against the
+(again highly artistically rendered) alien opponent but the bugger kept pipping
+me at the post on every question. I finally did manage to outwit the alien once 
+or twice but this game made me realise that mathematical ability is indeed
+something that peaks around age 18 and then goes rapidly downhill from there.
+Hope I never get invited onto the Krypton Factor. 
+
+Starting Next CSSCGC Server Simulator
+by
+Firelord
+Filename: StartingNextCSSCGCServerSimulator.zip 
+Score: 6.61
+Ranking: 69th
+Platform: ZX Spectrum 16K 
+This one is quite presumptive about the personal PC usage habits of CGC compo
+hosts and the problems they are faced with - in a most hilarious way. Even if
+Firelord did not write "by Firelord" on the intro screen, I could have told you
+on the spot this was one of his. A mischievous brand of humour prevails and
+Firelord's trademark INK/PAPER combinations are both on display here. You could
+positively cack yourself at the drama and realism conveyed as time runs low and
+there is real "trouble at mill". I just chuckled at the line stating "this all
+happened because you were viewing adult material" or something to that effect!. 
+Verdict: Well it made me laugh and it is crap - so a reasonable score for a 
+text-dominated effort.
+  
+ColorPRINT 
+by Andrew Owen
+Filename: ColorPRINT.zip 
+Score: 6.60
+Ranking: 70th 
+Platform: Timex TC2048 & Spectrum SE
+Hmm.. The American spelling prevails, as of course the Timex was an American
+derivate of the Speccy. Yes, and we all know that in England of a few centuries 
+ago, "color" was also used too by 50% of the people, 50% of the time. Then they
+all got on a big boat, sailed to America and left us "colour" spelling 
+individuals behind. Anyhow, look at the lovely colours on this erstwhile
+"Commodore killing" machine that never did become a commercial success. Play
+around with the ATTR bytes and the UDGs as much as you like and then set the
+telly up for an unsuspecting Birthday greeting for a family member. No-one has
+yet written an editor for this one yet although it needs it.  
+
+Randomaze 
+by chop983
+Filename: Randomaze.tzx  
+Score: 6.58
+Ranking: 71st
+Platform: ZX Spectrum 48K 
+This really is the sort of thing likely to grace a Cascade tape. Also if you
+squint whilst looking at the game board, it actually looks like a newspaper
+crossword. Randomaze is an apt name for this one as the difficulty of the game
+ranges from incredibly easy to certainly impossible with no real in-between. It
+just depends on the generated maze. Another point I noticed was the shunning of
+the USR "a" method of setting up UDGs, meaning that although the game quite
+comfortably fits inside a 16K speccy memory-wise, the 16K end user would have to
+go in and mod the code in order to see the intended stick man figure. Serves 'em
+right for not investing in a 48K model I suppose!
+  
+The Advanced Lawngrower Simulation
+by ADJB
+Filename: lawngrow.tzx 
+Score: 6.56
+Ranking: 72nd
+Platform: ZX Spectrum 16K 
+I was tempted to rename this one "The Advanced LawnGROAN Simulation" but on
+reflection I guess ADJB can't fully be blamed for the fact that the CGC was
+flooded with lawnmower themed games this year. In fact if we didn't have any
+then it'd be a bit like getting through Christmas without the telly being crap
+- i.e. just not right somehow. Well if this game doesn't do just about
+everything right for the CGC then I don't know what would. Colourful intro
+screen converted to ZX Spectrum format, Check! Mention of a lawnmower, Check! 
+Pre-scripted player task triggered by single key press, Check! Satisfying game
+denouement, Erm.. Check! So in short, everything's right here. Twenty minutes
+spent on the loading screen and five on the game. I could comment on the lack of
+UDGs, but then again doesn't a lower case 'i' make great blade of grass!
+ 
+Deadly Warriors The Adventure 2008
+by Firelord 
+Filename: DeadlyWarriors.zip 
+Score: 6.55
+Ranking: 73rd
+ZX Spectrum 16K
+Firelord mentioned that this game took 4.5 billion years to be completed - or in
+fact the approximate age of our planet and solar system. So, from the molten 
+coalescence of our rocky planet, via the formation of the "primeval soup" and 
+eventually towards the evolution of the higher apes we finally reach what made
+it all worthwhile - this ZX Spectrum crap game by Firelord of course. You see
+that is "Chaos Theory" (From a glass, I pour some water on my hand) and say 
+again you see - "Chaos Theory", look at that.
+The game itself is rather chaotic with a full text exposition of a brutal live
+ring fight. It almost reminds me of some MUDs I have played in the past, as 
+the fight progresses - "Will I hit them or will I miss?" you think. Sometimes
+you'll get a screen full of cyan on white text which isn't easy on the eyes but
+did make wonder about the possibility of porting this one to the VIC-20.
+
+Commodore 64 Emulator 
+by Steve "Sparkes" Parkes
+Filename: c64.sna  
+Score: 6.40
+Ranking: 74th
+Platform: ZX Spectrum 48K
+The only score I could think of when judging this joke emu was 6.4. By that 
+reckoning if Steve had've done a mock VIC-20 emulator instead then I might have
+scored it 2.0, potentially losing the compo. (You should have picked a TI-99!) 
+This entry contrasts with some "real" emulators already in the compo.
+It's a quick'n'dirty fake emulator, but a welcome one nevertheless, no thrills,
+just a quick dig at "the other organisation". Every CGC must have one like this
+in order to meet EU targets. So thanks to Sparkes that we met our quota for this
+year. 
+ 
+Daily Mail 
+by Steve K
+Filename: DailyMail.zip 
+Score: 6.32
+Ranking: 75th 
+Platform: ZX Spectrum 128K/+2
+Quality "Daily Mail" header graphic and nice usage of the 128K only
+PLAY command. I wonder if there'll ever be a port to the 48K BEEP command, as it
+appears that may be the only line in the program which prevents it from running
+on a 48K system? Technical concerns aside,  the author assures me he'd had a few
+drinks whilst making this game, well that's really what I call dedication of
+getting into the role of the game. For you play a drink happy journalist, 
+although in this one the drink appears to be a "cuppa". I can't help think it's
+a cuppa gin though. Playing this for the second time round I can't help but see
+how topical the generated pseudo-headlines are for 2008. Which nicely dates it.
+I can imagine it'd be really bizarre to play this one in about twenty years 
+time!
+  
+Advanced throw some shoes at a prat
+by Gavin Callard
+Filename: shoes.zip
+Score: 6.31
+Ranking: 76th
+Platform: ZX Spectrum 16K 
+Gavin graced us with lots of games at the beginning of CSSCGC 2008 but then had
+a long hiatus from the compo. He came back near the end with a final rallying
+cry and this little topical number. The man who threw shoes at George Bush did
+get beaten afterwards and this game does not let you forget that. Magenta 
+background oozes a dedicated loyalty to the original "crap stylee".
+Anyway,  see if you can win it without much difficulty. I inadvertently won
+it on my first go - as I'm sure many players would.
+Looking at the code, only one parameter actually influenced the outcome of the
+game. The other parameter is a bit of a red herring, or perhaps it is there for
+added realism? 
+
+Reflex Meflex 09
+by Arda
+Filename: reflexa.sna  
+Score: 6.30
+Ranking: 77th
+Platform: ZX Spectrum 48K 
+This one is actually a challenging game. I never did completely master it as I'm
+just too, well slow really. As a tester of reaction times perhaps it should
+become part of the standard driving test or something. Eventually I tried to
+beat the game by mentally "timing" the countdown such that I could get a really
+fast score. With this method, I mostly failed by "jumping the gun" although I
+did get "8 ticks" at one point. Ahhhrg, that was so near yet so far from the
+ultimate goal of "7 ticks!" at which a treat is promised. Nice one if you were
+ever to host the spec-chum crap game equivalent of a "LAN party". It's actually
+a little too enjoyable and unique (and dare I say potentially useful) to become
+truly crap! 
+
+GOD Simulator 2008
+by Firelord
+Filename: GOD_Simulator2008v01.zip 
+Score: 6.25
+Ranking: 78th
+Platform: ZX Spectrum 16K 
+You can't get a more "God game" type game than a God simulator. Even Populous
+doesn't touch this when it comes to actually playing the role of God. A 
+relatively simplistic affair awaits (compared to actually running the entire
+universe) and you'd be forgiven for thinking that some elements of being God
+have been omitted from the game due to the technical limitations of the speccy
+platform. I like the drawing of the asterisk starfield though. That was the sort
+of graphical treat which could be found in type-in books of the era and used to
+really impress me during the early days of home 8-bit computing.
+  
+Crap Factor
+by Arda
+Filename: crapfactor.tap
+Score: 6.20
+Ranking: 79th
+Platform: ZX Spectrum 16K
+Funnily enough, the title of this game is also the name I give to the 2009
+version of the '80s program "The Krypton Factor" because the new version is
+basically crap! This is the game that dares to apply a computational algorithm
+to crap game scoring. Will it replace us judges? Perhaps after these results are
+out, most people will wish it had done! As for the game, very funny I thought it
+was that Arda had appended a NEW statement onto the end of the game code. I can
+only speculate that this is in case he is going to apply for a patent for this
+one and he doesn't want anyone else stealing the code. Hmm, maybe one day a
+clean-room open source re-implementation will be carried out? 
+Verdict: Watch out CGC judges, your days are numbered. Automation is the way
+forward!
+ 
+Drugsy 
+by GreenCard
+Filename: Drugsy.tap  
+Score: 6.19
+Ranking: 80th
+Platform: ZX Spectrum 16K
+Aah finally, a game that deals with cutting edge social issues. I half expected
+to see the "Winners don't do drugs" logo appear on loading this game up,
+although in the case of this particular game "Winners do do drugs" would
+probably be more apt. Features a complete lack of in-game graphics, and a rather
+bleak and dark interface setting the rather shady tone of the game. Yet, somehow
+I feel this was a good call, because it also makes it seem business-like - a bit
+like a spreadsheet/database app or something. Some extra points scored for the
+shadowy figure that appears on the loading screen, although I'm certain he used
+to be a drummer in a '70s prog rock band. This has to be the British answer to
+"Blow", surely!
+
+Swift Turtle
+by Arjun
+Filename: Swifturtle-1.1.zip
+Score: 6.13
+Ranking: 81st
+Platform: ZX Spectrum 48K 
+Not a game, but nevertheless can provide hours of entertainment for turtle
+lovers. (No not that type of turtle lovers - sicko). Anyway this one could have
+got a higher score, but it is just too flawlessly designed and executed. Again,
+it put me on a real nostalgia trip and I immediately starting drawing all sorts
+of geometric shapes and funky curves, lost as I was in my own little world of
+delightful amusement. (A bit like Klaus Kinski in Fitzcarraldo). So I had an
+idea to draw a ship suspended halfway up a mountain, but totally cocked it up by
+getting one of the lines wrong. Anyhow it's a welcome addition to the crap game
+archives and certainly better than one or two old non-CGC proggies that found
+their way into the WoS archive over the years. If you're still not convinced,
+then try the macro feature which really is the key to unlocking the power of
+this program.
+
+Fun BASIC 
+by Dr BEEP
+Filename: funbasic.tap 
+Score: 6.11
+Ranking: 82nd
+Platform: ZX Spectrum 48K
+People's definition of fun can vary and if a "fun sized" Mars bar can exist
+(The only "fun" being that you've just been ripped off by buying undersized
+chocolate bars) then this program can certainly be called fun. The user, on
+pressing various keys is presented with a selection of funny remarks, rather
+than actually programming anything. The responses vary from amusing to surreal
+ - but be sure to select all of the extended and shift-extended keywords as well
+as punctuation, lest you miss some humorous pearl of wisdom. It's a gas for a
+few minutes and I haven't heard so much laughter from a computer response since
+we got "/dev/tty - device not found" from a win32 command prompt! Oh that one 
+was a real side-splitter I can tell you. 
+TAN:- "Got a TAN from holiday" and LLIST:- "Don't stutter" where amongst the
+more memorable one-line responses of this submission.
+
+ 
+Advanced Lawnmower Simulator: The Adventure 
+by steve
+Filename: mowadventure.tap  
+Score: 6.06
+Ranking: 83rd
+Platform: ZX Spectrum 48K
+Fresh from reviewing another few lawnmower entries, I now turn my attention to
+this game and I've seen that many lawnmower games in this compo that I'm just 
+about ready to apply for a job at Homebase (Lawnmower section). Full screen 
+green is employed here which is the one colour this game could only ever be.
+(Unless there's ever a sci-fi version where a magenta lichen lawn is mowed on
+a distant alien planet!) It's pretty obvious to the player that they could type 
+"mow" to mow the lawn, but if you type "M" instead, you get a message telling
+that you can just type "m" to mow the lawn. This abbreviation is very useful
+since you need type it 384 times in order to complete the game, which for some
+reason amuses me. Was I expecting too much for the game to say something like
+"You push the mower forwards" or "You mow another strip of the lawn" after
+typing "m"? Probably, as I guess that'd make it too easy! 
+  
+Sub Chase 
+by Woody
+Filename: SubChase.zip 
+Score: 6.04
+Ranking: 84th
+Platform: ZX Spectrum 16K & ZX Spectrum 48K
+Nicely implemented with colourful graphics and smooth scrolling, I'm sorry but
+this game isn't actually that crap! I've downloaded worse from the WoS archive
+with an original price of £12.99. The game does have some crapness, perhaps like
+the simple sound, or the fact that the "top of the sea" and the "depths below 
+the sea" are merged into one flat surface, initially confusing the player. 
+Woody needs to move the "lever of crapness" about two or three notches towards
+"totally crap" in order to crap things up a bit more. I'm sure an Atari 2600
+owner would rank this amongst one of their top ten games if it were on a 
+deluxe bank switched cart.
+Anyway, Woody can't help but provide an excellent level of support for most of 
+his crap game efforts and so he eventually provided a 16K version of his game 
+(which was tested under "Virtual ZX Spectrum" and was very contentious - 
+I said "contentious", get it?) oh, never mind.
+
+Harry the Magical: Harry and the Orden
+by C.M. Gilles
+Filename: harrypoker.zip 
+Score: 6.02
+Ranking: 85th
+Platform: ZX Spectrum 48K 
+I could be mistaken, but this has the look and feel of one of those "I already
+made a game and I might as well send it in to the CGC" type of submissions.
+Nothing wrong with that, in fact it was welcomed in 2008 and quite a few
+entrants took this approach (even did it myself in 2007). 
+You can play poker in it, but apparently it is not implemented correctly. So
+that's at least partially crap, but the rest of game plays a little too good. 
+It's a top-down view - a similar mechanism to Zelda series on the gameboy. 
+Clearly also this one is firmly in the RPG genre, with what I'm guessing are 
+Hit Points and Magic Points displayed on the screen.
+I walked up a very long corridor whereupon I entered into a duel and won it, 
+although I don't know exactly how. As a first time player, I found the game
+a little confusing as to what was the right thing to do, but I'm certainly
+no RPG expert!
+
+Mini Game Compo Simulator
+by Dr BEEP
+Filename: MGC.TAP
+Score: 6.01
+Ranking: 86th 
+Platform: ZX Spectrum 48K
+You know when Dr. BEEP has an axe to grind - he starts emitting small games at
+an alarming rate. This one really shook the foundations of the minigame compo
+community, or at least it would have done had any minigame judges ever played it
+which I suspect they didn't. I only say this because there seems to be some sort
+of communication barriers between various sections of the home-brew retro-gaming
+community. For example I don't think the mini-game judges have ever seen any of 
+my CGC postings around the Internet and I have never seen any of theirs either.
+So, the competitions go on as two isolated bubbles in a vast retro-gaming ocean.
+In this game, I personally enjoy looking at such great mock usernames as "C64
+lover" and also the game names such as "Lightbulb Factory", whilst keeping out 
+of the politics! In that respect, I found it to be an amusing enough diversion. 
+
+Advanced Night Out Simulator 
+by Matt_B
+Filename: nightout.tap 
+Score: 5.98
+Ranking: 87th
+Platform: ZX Spectrum 16K 
+This one has a couple of UDGs and the word "simulator" in the title, really just
+what more DO you want? It's nicely done with the themes of drunkardness and
+modern day urban dangers setting the scene. The control system is impeded by a
+user selectable level of drunkenness which is quite amusing at the lower levels
+but completely handicaps the player at the "paralytic" levels. Even so I still
+find up and down movements easy but left and right a struggle. At heart though
+this game seems a subtle promotion of the benefits of public transport.
+
+Earth Invasion 
+by Woody
+Filename: EarthInvasion.szx  
+Score: 5.97
+Ranking: 88th
+Platform: ZX Spectrum 48K 
+Most of Woody's submissions get scores above a nominal 5.0 because they have had
+a bit of effort put into them and they invariably written in machine code.
+This one is quite possibly the only game I've ever played where the instructions
+stay over the play area after the game has started, only to get successively
+wiped off the screen by the ongoing sprite action. What a nice touch for the 
+CGC that was. The user launched projectile is so slow in this one - it is
+actually about the same speed as the enemy spaceship. So, if you hesitate and
+then miss on the first firing you will be royally screwed. I also have to ask,
+how big is the enemy ship sprite? 64x64 at a guess - how can you compete against
+that with your tiny copter? This one also features analogue TV snow effect.
+  
+ZX Webcam 
+by polomint
+Filename: zxwc.tap 
+Score: 5.95
+Ranking: 89th
+Platform: ZX Spectrum 48K & ZX Spectrum 128K/+2
+Oh no, the TV is staring at me again! After the government-backed plot to
+control my mind via a series of hidden messages in a Chris Tarrant gameshow was
+thwarted, I thought that was the end of me being spied upon! How could polomint
+tweak my emulator to do this? Clearly I need to get a shave (and also replace
+that green light bulb with a normal one). You may be perplexed as to what this
+program is until you press the C key and the joke will be revealed. Photographs
+on the speccy can look frighteningly realistic, particularly if you squint
+slightly or otherwise bring the image out of sharp focus. 
+Verdict: Good for a quick laugh.
+  
+ZX Road King 
+by mile
+Filename: zx_road_king.zip  
+Score: 5.88
+Ranking: 90th
+Platform: ZX Spectrum 16K 
+Welcome to the grim reality of modern day urban Britain. On my first attempt I 
+stupidly went the wrong way and was brutally stabbed in the neck. That'll teach
+me to pay more attention to the in-game descriptions! On my second attempt, I
+happily won the game, actually taking notice of textual hints on that occasion.
+Great to see "Sugar Puffs" mentioned in a crap game entry. Always evokes 
+memories of those ads with the Honey Monster and Henry McGee. Although by the
+end of the game, the Sugar Puffs are humorously forgotten about and instead
+a Twix is mentioned giving this game the honour of "best product placements" in
+CSSCGC 2008!
+
+Brainf*ck Interpreter
+by Gianfranco Zuliani
+Filename: bf.tap 
+Score: 5.86
+Ranking: 91st
+Platform: ZX Spectrum 48K
+I like this title and I have to say that the score could have been much higher
+had the author written a crap game in brainf*ck and submitted that. This - I
+would have really liked to see!
+I've long had a passing interest in Brainf*ck and similar esoteric computer
+languages whose only purpose is intellectual mischief and basically wasting time
+and resources. It would have been great to see someone take up the challenge of
+entering further BF programs into the CGC and this is also what I really hoped
+for. However, since I get a migraine attack anytime I try to author/debug BF
+code, I can quite understand why no-one else tried it either. Was glad to have
+this in the compo though! 
+  
+Ultimate last minute sent in simulator
+by Dr BEEP
+Filename: sentsim.tap  
+Score: 5.70
+Ranking: 92nd 
+Platform: ZX Spectrum 16K
+Wikipedia has a policy of not mentioning itself in its own articles (apart from
+the Wikipedia article that is!). Should the CGC be the same? Of course not! Here
+we welcome games that revolve around the compo itself and many of them quite
+possibly only make sense to people who've had any involvement with the CGC. 
+Step inside Dr BEEP's (text-only) vision of submitting an entry at the last
+minute. Something seems very real about a bounced email at the very moment you
+don't want it to. Whilst playing this, I managed to give my virtual game the
+name of various BASIC token keywords. I don't know if that is intentional or if
+my emulator was playing silly buggers at the time. The player flexibility has to
+be commended in that you can call your game whatever you like. I would have
+enjoyed seeing a change from the default speccy colours, perhaps even a BRIGHT 1
+white background (nothing too ambitious) as we did get lots of games this year
+which just used the default INK/PAPER colour scheme. I should point out you can
+win this game like I did, if you exactly enter the correct submission address
+of CSSCGC 2008.
+  
+The Hat Factory 
+by Gavin Callard 
+Filename: thf.zip
+Score: 5.59
+Ranking: 93rd
+Platform: ZX Spectrum 48K
+I tip my hat to Gavin Callard, this game is da bomb! High resolution full
+colour graphics, sound and a totally insane game premise.
+The fact that it is a fast paced game requiring skill and good timing (i.e. not
+totally crap) added to the fact that we got so many entries in the compo this
+year means it is placed at a ranking which probably doesn't do it full justice!
+Heck it even comes with a highly amusing introductory blurb too. Meticulously
+designed graphics (like the truck and conveyor belt for example) and the 
+flawless flicker-free animation of the hats & bombs make for a
+pleasant in-game environment, but in truth it's a couple of rungs above crap. 
+Verdict: less harder next time, you must try! 
+
+Achtung Minen
+by Lucas Pelaez
+Filename: achtung-minen.zip 
+Score: 5.57
+Ranking: 94th 
+Platform: ZX Spectrum 48K
+Again, I'm quite a fan of this tense and dramatic WWII minesweeping game but 
+find myself giving it a rather low ranking which perhaps is unfortunate, since
+it is well worth a look!
+The only thing I can say that is crap about the game is that perhaps it is too
+easy. Alas, the professional looking full-colour high-res graphics, combined
+with multiple and varied interesting power ups and slick animation make this
+game a little too good to be truly awful! Very grateful I was though to play 
+this type of game, providing a refreshing counterpoint to the far more prevalent
+text-based games that I'd played beforehand.
+ 
+ZX Outlook 
+by polomint
+Filename: zxoe.tap 
+Score: 5.55
+Ranking: 95th
+Platform: ZX Spectrum 48K & ZX Spectrum 128K/+2
+With marginally more functionality and a much greater stability than the real
+thing, this is really a lesson to Microsoft how things should be done and of
+course you don't need a gigabyte of RAM to do it either. The extra feature I
+really like though is the fact that you don't receive any emails in it from
+work or annoyances like that. Everyone should ditch the Microsoft version and
+use this one instead - you will be fitter, happier and more productive. I'm 
+not sure when the next service pack for it is due out, perhaps CSSCGC 2010 at
+a guess! Clearly, you can use this if you want to kiss goodbye to spam problems
+as well. Watch out for the BSOD (Black screen of death) though on trying to
+launch the browser - followed by a swift reboot (so realistic!).
+
+Slap Me Forum Troll 
+by Arda
+Filename: troll_v17_3.zip 
+Score 5.53
+Ranking: 96th
+Platform: ZX Spectrum 48K
+This entry utilises what looks like a 63 column (at least) text driver. You 
+know, similar to Hi-soft Pascal and Tasword, where all the 'w' characters look a
+bit like the hearts suite on a pack of playing cards. So, a point deducted for
+making things better than they should be! On the good (crap) side though, this
+game is totally poo - so thanks for entering it. Funny to see a rendering of
+the top part of the "World of Spectrum" forums index converted to scr format
+and a CSSCGC 2008 branding on the screen too. Feels truly like a 
+"special edition" program or something. A lot of the WoS regulars are mentioned
+in the game and you can choose one as your "Buddy" whilst flaming the others.
+A high point of the game is the line "Do you want to get into polemic?". I 
+usually don't but perhaps after Arda sees this game ranking, I may well end up
+knee deep in polemic. Congrats anyway to Arda on 25 years with the ZX Spectrum!
+
+La Pugly Ugly - The Long Journey 
+by Bonny Bonnet Hood Softwarts
+Filename: PUGLY.zip
+Score: 5.51
+Ranking: 97th
+Platform: ZX Spectrum 48K
+Too damn good for the compo. Tries to be crap and in some ways is, but there's
+no way you can get away with drawing such a good intro screen, and make a
+clearly attemptable platformer without someone noticing that a fair bit of time
+and effort went into this. 
+This one spawned a thread in the Spanish spec-chum community, with the
+announcer later mentioning something like "I'm sorry I just realised it is
+actually a CGC game", followed by others:- "It's OK, we are playing it anyway".
+I'm led to believe that certain well known members of the speccy community 
+(experienced coders and designers) were involved in the development of this
+title. That's presumably why it is good. On the crap side, the movement of the
+player charachter may be vibrant and animated, but it is bleedin' awful to
+control and insane how it can just stay hanging in mid-air. So some crap cred
+is due for that at least. For me, the nightmares of the SCR image of the
+"La Pugly Ugly" character have somwewhat faded in recent weeks, but haven't
+totally gone just yet! In game "music" consists of a tortuous repetitive pulse
+which did go off when I pressed a key. If you want a laugh, then read the
+supplied instructions!
+  
+Music Demo
+by Woody
+Filename: musicdemo.tap 
+Score: 5.50
+Ranking: 98th 
+Platform: ZX Spectrum 48K & ZX Spectrum 128K
+This is only the lowest scoring of Woody's entries because it is not actually a
+game. However I nearly cacked myself with excitement at the prospect of this
+BASIC extension, providing a SOUND command which can use either the Beeper or
+the AY chip if available. Have an AY? Don't have an AY? That's fine, no-one
+cares. Or at least the SOUND command doesn't. Your ears may tell a different
+story. A great novelty for the CGC and it is nice that pre-128K owners are still
+cared about. It is 2009, time to upgrade to 128K yet? No, thanks to Woody we are
+rubberkeys fanatics till we die hahaha.... 
+Correction: It isn't the lowest scoring of Woody's entries now, as Dumb Miner
+is lower than this one. I forgot to change this on the 2nd pass of judging. 
+(doh!)
+  
+Barcode Hangman 
+by Unsatisfactory Software
+Filename: barcode.zip 
+Score: 5.48
+Ranking: 99th
+Platform: ZX Spectrum 16K & ZX81 16K
+I actually think the barcode graphic in this game looks pretty damn good. Maybe
+I should get the barcode scanner from work and try it out on the emulator screen
+just to check that the generated codes to conform to the IEEE standards. Ahem,
+anyway, some crapness points were scored for making a port from the ZX81 to the
+Speccy whilst using zero of the speccy's features, making you think that you are
+still actually playing it on a ZX81. Also, the score was saved from being lower
+by the fact that it seems impossible to actually lose the game. (warning - 
+expert crap game developers in the house). I see the BASIC code is there to lose
+the game, but can it actually be lost? I couldn't do it and I did try a few
+times! Quite possibly deserves a higher ranking, but judging this compo really
+is like trying to pour a quart (the submissions) into a pint pot (the high
+rankings) and this title was from a 1985 version!! Thanks for supplying the 
+ZX81 version too though, the second one of only two in the compo.
+  
+ShitStack BrickBat
+by steve
+Filename: bricks.tap 
+Score: 5.45
+Ranking: 100th 
+Platform: ZX Spectrum 16K
+You've just been given a nice clean bat, and what do you do with it? Cover it in
+poo of course. I'm not cleaning that mess up! Amuse yourself for as long as you
+wish in this game that seems to have no score, no winning conditions (or losing
+conditions for that matter). I'd loved to have been there when the author was
+designing the game and said to himself "hmm, we need exactly five stacks of
+falling poo - no other number will do.). Score isn't too high as it is another
+very short if fun listing that fits entirely on a single ZX screen. Would need
+to add more to reach a higher score, like a poo-related power up or something! 
+  
+Advanced Disappointment Simulator 
+by Andrew Owen
+Filename: ads.tap
+Score: 5.33
+Ranking: 101st
+Platform: ZX Spectrum 16K
+This game is scored as follows: 2.33 for the game idea. 3.0 for the really cool
+BORDER statements that make it look as if something is about to load up! Now
+the compo is over, it is no spoiler to say simply what this game does. Namely 
+it pretends to load up a ZX Spectrum port of the latter-day popular game 
+"GTA 4" but immediately fails with a tape loading error. Hence the eponymous
+disappointment. But I was asking myself, would I really be that disappointed if
+it didn't load? What form could the game possibly take given the limited
+hardware of the speccy. I wouldn't want to think what the frame-rate would be
+like and even if there was a controversial "hot coffee" type mod available,
+would it be worth it? As punishment for this, aowen should write "GTA 4 - the
+text adventure" next year and increase the disappointment at least sevenfold!
+For the history books, it's probably worth a mention that this title was
+submitted merely one minute before the end of CSSCGC 2008.
+Verdict: Slightly disappointing it may be, but we crave disappointment by the
+bucketload! 
+ 
+Dharma Initiative Swan Station Computer Simulator 
+by Hernan Pablo Alvarez
+Filename: dharma.zip 
+Score: 5.22
+Ranking: 102nd 
+Platform: ZX Spectrum 16K
+Having not seen the TV program "Lost" yet, I was in fact quite lost as to what
+do in this game at first. With hindsight, it's a safe bet that I wouldn't have
+guessed the correct answer. However, a quick Wikipedia search filled me in on
+the needed info and I was happily able to complete the game. A good crapness 
+idea was to announce in the accompanying documentation that the player has
+108 minutes in which to enter the correct numeric sequence and then completely
+ignore this time limit in the game itself (as looking at the code reveals)!
+Also, the game is quite unforgiving of whitespace, so don't press space
+accidentally or it's goodbye planet Earth.
+
+Ultimate crap game last minute entry simulator
+by Dr BEEP
+Filename: UCGLES.TAP 
+Score: 5.21
+Ranking: 103rd
+Platform: ZX Spectrum 16K
+A fun poke at the trials and tribulations experienced by eleventh hour crap
+game coders. Now we don't want everyone to think that the CGC has its head up
+its own backside, but it's always amusing to get some self-referring titles. 
+(Erm, didn't we get another one like this somewhere?) I played through this one
+a few times and I either got totally confused or I swear that a multiple choice
+answer I gave earlier was originally correct but later found to be wrong! 
+I didn't look at the code but I assume it was written with the consummate skill
+of the ultra-experienced Dr BEEP. At least the answers are amusing! 
+  
+Advanced Lawnmower Simulator 3D
+by Paul E Collins 
+Filename: Lawn3d.tzx 
+Score: 5.17
+Ranking: 104th
+Platform: ZX Spectrum 16K
+On hearing of this game it's easy to imagine visions of "Flight Simulator X"
+type realism, or at least at the level of "Gunship". What we do get though is a
+simple trick of perspective and a lovely magenta mower. I'll tell you what, the
+way those clouds are moving across the sky, it's clearly blowing quite a gale
+out there today. Better put your mittens on! Points deducted for allowing mowing
+just slightly over the red line (An affront to civilised society) but as always
+it just wouldn't do to underestimate the enduring cultural legacy the lawnmower
+crap game series enjoys, so at least it scored above 5 - not bad! 
+ 
+Mrs. Nibbs Cupcake Capers 
+by Mulder 
+Filename: Cupcake_FINAL.zip 
+Score: 5.12
+Ranking: 105th
+Platform: ZX Spectrum 48K
+No I'm sorry, this is just too damn good. Back in the day I paid good money for
+games that were far worse than this one. It would have been rejected from the
+cassette 50 compilation due to appearing far too skilfully drawn and would no
+doubt be exploited as a separate commercial offering (not the only one in the
+compo I feel this applies to). Amusing back story and interesting development
+paradigm certainly makes it a worthwhile and unique entry to the CGC and the
+whole concept is tantalisingly crap. However, back in 1983 it wouldn't have
+been, so it only gets a low crapness score, yet plenty of playing time by me! 
+
+Bounce (Preview Edition)! 
+by Shaun Bebbington
+Filename: BounceCR.zip 
+Score: 5.00
+Ranking: 106th 
+Platform: ZX Spectrum 128K/+2
+Unfinished masterpieces such as this should be applauded. We applaud them
+because the author had the good sense to stop working on them and to give up.
+Watch out CSSCGC 2009 though, this one may rear it's head though in the form of
+a more completed experience. Have a BALL with it, but don't let it drive you
+BATty. Reminds me very much of a one-liner program I co-authored a while back 
+(in the early stages of development before the game was created).
+To be fair to Shaun, I encouraged him to send this one in even though he'd made
+it clear to me it wasn't finished. So I can't be too harsh now can I? Besides,
+the full version (Drum roll please) is tipped to have some BEEPs in it and
+a high score table. I know it's almost too exciting for me too, but I must stay
+calm! (games to judge and all that)
+
+Elmo's karaoke C-rap (and many more)
+by Dr BEEP
+Filename: elmo.tap
+Score: 4.98
+Ranking: 107th
+Platform: ZX Spectrum 48K
+OK, I confess I played this game a lot and I still haven't got the bottom of its
+mysteries. I just keep getting the Jingle Bells tune (by FrankT) played whilst
+the Elmo character displays a speech bubble, containing the letter I just
+pressed repeatedly displayed. At doing this, the game is very good and I applaud
+it.
+The graphics of Elmo himself look rather professionally done, but I cannot seem
+to unlock any further tunes or surprise messages from the game - which in a way
+is "job well done" for something in the crap game compo. It did however bring
+back fond memories of my early childhood as I watched "Sesame Street" many times
+before eventually having to go to school (which never was quite as much fun).
+
+Garage BEEP 
+by Andrew Owen
+Filename: GarageBEEP_v1.z80 
+Score: 4.94 
+Ranking: 108th
+Platform: ZX Spectrum 48K
+This one looks great and the graphics are in no way crap. In fact you are
+starting to think it is something like CUBASE and ask yourself, where do I
+insert the dongle? The answer is probably in your ear if you listen to some of
+the crap I came up with whilst messing around with this one. It is very slow as
+Andrew acknowledges (good-oh!) So it's probably a case of "all fair coat and no
+knickers" as when Mrs Hubbard the cupboard labelled "Machine Code", it in fact
+contained BASIC. Getting near the end of the judging for me now and so I ask
+myself have I lost the plot yet? Mr Bimble replies "No you haven't". 
+Verdict: Looks good, feature packed and could be useful to game designers. Not
+actually that crap!
+Stop the press: Andrew has released a non-crap much further developed version
+with more machine code in it. This is very good and "Mister BEEP" produced an
+outstanding tune with it. Naturally, my judgement is solely of the earlier 
+CSSCGC 2008 crap version. 
+  
+Binduko! 
+by Shaun Bebbington
+Filename: Binduko.zip 
+Score: 4.75
+Ranking: 109th
+Platform: ZX Spectrum 128K/+2
+The first of a three game assault on the compo by SB - likeable for its geek
+appeal. You can possibly guess what's coming on starting the game, but still the
+fact that someone actually wrote it will impel you to play the game through
+to its logical conclusion provided you literally have two seconds to spare. 
+Handy for completing on the short tube journey between Leicester Square and
+Covent Garden (250 yards). Good for a short laugh of course. But after that,
+the first three letters of the game name describe exactly what you should do
+with it.
+Stop the press: Obviously this game had some influence on me, since I submitted
+the even worse "UnDoko" to CSSCGC 2009 - do you realise what you've started with
+this?  
+
+The Tunnel 
+by chop983
+Filename: The_Tunnel.tzx  
+Score: 4.48
+Ranking: 110th
+Platform: ZX Spectrum 16K
+This one being a sequel to the equally bad "Maze" from 2005, I launched the game
+not honestly expecting it to blow my mind. Sure enough, it's a decent enough
+crap-romp through a virtual tunnel. After my sins of 2007 I have no real right
+to overly criticise this one, besides since I go through a tunnel twice a day
+(the Mersey Tunnel) I guess I have some sort of affinity with it. Play with a
+closed mind and you're sure not to be disappointed. I'm sure a future compo
+awaits another sequel with great anticipation. But, will it take another three
+years for this to happen?  In the words of Fairport Convention "Time will show
+the Wiser". Although I was sorely tempted to develop an unofficial sequel to
+this on myself, I later realised that it is a sacred tradition of the
+CGC which belongs to chop983 alone.
+
+Tracers 
+by Dr BEEP
+Filename: Tracers.zip 
+Score: 4.40 
+Ranking: 111th
+Platform: ZX Spectrum 48K
+This is too good for the CGC, so the low crapness score is out of respect for
+the game more than anything else. This is a game where you absolutely have to
+read the instructions to get an idea of how to play it. I had to play the first
+level (Level 00) a few times before I finally beat it as I kept making the wrong
+moves. In other words, you have to think ahead and very carefully as one wrong
+move tends to blow the whole level.  With a hundred levels in the game I'll be 
+sure to return to it again to complete some more of them. For me, it really is
+the sort of Puzzle game that makes retro-gaming fun. Good to see a light colour
+scheme in use too! Not crap game material although you might be excused for
+thinking so (if you didn't read the instructions) but glad to have it in the CGC
+anyway.
+
+Advanced Paint Drying Simulator 
+by ADJB
+Filename: paint.tzx 
+Score: 4.35
+Ranking: 112th 
+Platform: ZX Spectrum 16K
+This one achieved cult status as the 100th title to be entered into the 2008 CGC
+, chronologically speaking. It does what it says on the tin (of paint). I once
+painted the outside of a house and it looked a bit like this program. I kept
+saying "that paint at the top will go darker as it dries, trust me". Of course
+what really had happened was that two subtly different shades of paint were used
+, so the house still to this day looks not unlike this program when it is half
+completed. From a suggested idea by Andrew Owen, I thought for a moment this
+program would itself evaporate into the vapourware section - but we
+collectively groaned as it unstoppably became a reality, although the excellent
+tin of pain graphic on the loading screen makes this one a cut above the very
+lowest ranking entries. 
+  
+Advanced Coat Getting Adventure Simulator 
+by Steve
+Filename: coat.sna 
+Score: 4.28
+Ranking: 113th
+Platform: ZX Spectrum 16K 
+In space, no-one can hear you scream. Unfortunately, I wasn't in space when I
+received this one. Perhaps the next time a new interstellar probe is launched,
+they can put the source code of this game inside it. Perhaps that is the only
+way of getting rid of it. A game that certainly never could have been released
+back in the day before USENET and web forums became widely used. This one 
+certainly owes it's core idea to the Internet explosion and the fact that any of 
+us can regrettably or perhaps deliberately become architects of a digital faux
+pas. (erm, what am I going on about?) 
+Anyway, the game is saved from "rock bottom" status by the inclusion of an
+"Easter Egg", a close shave though I have to say. 
+
+Advanced 10 PRINT Simulator
+by DrUnKeN mAsTeR
+Filename: 10_PRINT_sim.rar 
+Score: 4.20 
+Ranking: 114th
+Platform: ZX Spectrum 16K
+I awarded 3.0 for the game and added 1.2 for the amusing manual that accompanies
+it! Not since the retirement of Johnny Ball have we joyfully enjoyed bunking off
+work to watch some schools programs whilst pratting around with a bit of futile
+BASIC coding. All I'll say is that this one follows a long tradition of "PRINT
+simulator" games and is mildly more entertaining than getting a nose bleed
+halfway up mount Everest. Perhaps not a stocking filler but at least it is a
+screen filler. 
+  
+Turing Test Simulator 
+by Guesser
+Filename: Turing_test_Simulator.TAP 
+Score: 3.98
+Ranking: 115th
+Platform: ZX Spectrum 16K
+The first thing that struck me about this title was the multicoloured loading
+screen, which on the one hand looks great and really colourful due to stippling
+effects, yet on the other hand looks somewhat corrupted in places. I'm guessing
+(no pun intended) that this is the result of automatically converting it from
+another graphics format. As for the "Turing test" itself, a look
+"under the bonnet" of the code will reveal that the program is not that bright,
+randomly spitting out a few everyday responses. However, you may say it
+comfortably passes the Turing Test because I think I know some people who can be
+mimicked flawlessly by this title. 
+  
+Flight Simulator 2008 
+by James Smith
+Filename: FlightSim2008.zip 
+Score: 3.87
+Ranking: 116th
+Platform: ZX Spectrum 48K
+Why the low crapness score? Look, this game is just too darn good, and the
+crapness rating is therefore very low! I actually enjoy playing it, and it's
+written in professional assembly language. Add in the documentation and real
+maps, and you have something that could've been ordered back in the day from 
+James Smith Games plc. PO. Box 27. Inverness. Price £14.99, please allow 28 days
+for delivery. I'm sorry but submitting good games like this ain't gonna win the
+compo. Congrats on the game though it really is great to see a geographically
+accurate Scotland scroll past on our beloved speccy. 
+
+Escape from Body 
+by Arda
+Filename: Body.zip 
+Score: 3.78
+Ranking: 117th
+Platform: ZX Spectrum 16K
+Aah, the one that got away. Or did it? Arda submitted this to CSSCGC 2007, but
+it was too late for that compo. Long forgotten and lost (for 11 months). I guess
+the whole world had either remained unaware of it or (including Arda) completely
+forgotten about it. Then along comes Master Crap Game Archiver, Chris Young to
+dig this one out and to give Arda a bit of a shock, and rest of us a bit of a
+friendly giggle. You see this one came back to haunt Arda  - it just wouldn't
+die. What's it about? Truthfully, I don't think anyone has a clue. But it exists
+as a timeless curiosity, maybe open to further future interpretations. 
+
+16K Spectrum Emulator 
+by Andrew Owen
+Filename: 16KSpecEm.zip
+Score: 3.76
+Ranking: 118th
+Platform: ZX Spectrum 48K 
+Makes your 48K system appear identical to 16K one such that a 16K snapshot taken
+from the resultant "emulated" system is indistinguishable from a real 16K
+spectrum. Only two slight snags:- (1) the filling of the high 32K with $FF to
+emulate "no attached RAM" truly takes ages. (2) you can still POKE the high 32K
+and PEEK it back again betraying the presence of real RAM there. Still, in 
+practise these things tend not to effect the operation of 16K software at all
+(and the filling can be bypassed anyway). This one is actually potentially
+useful since we could use it to run a 16K game with hard-wired UDG addresses in
+the 48K QOAP emulator - if we really wanted to.
+Not a game of course, but that doesn't seem to be important to anyone anymore.
+Anyway, it seemed to fit into a nice gap here in the lower rankings of the
+compo due to its theoretical usefulness.
+  
+Dumb Miner
+by Woody
+Filename: dumbminer.szx 
+Score: 3.57
+Ranking: 119th
+Platform: ZX Spectrum 48K
+On receiving this entry, I immediately contacted Matthew Smith to elicit his
+comments on it, to which he replied "Utterly Brilliant!" (or was that David
+Darling?). Not really of course, but I'll simply describe this one as a copy of
+Manic Miner that has been POKEd to make Miner Willy fall through floors
+thereby rendering the game somewhat amusing yet completely unplayable. We like a 
+bit of variety in the compo and I guess this sort of thing has never been
+submitted before. So I'll just slap an appropriate low score of 3.57 on it and
+be on my merry way, hoping wholeheartedly that next year we may see Dumb Set
+Willy and wondering what possible thing another compo judge could write about
+something like this! So if you wanted to lose the compo Woody, then this was a 
+pretty decent attempt, not too far off the target!
+ 
+attack of the flying saucer!
+by Ian
+Filename: AOTFS.z80  
+Score: 3.51
+Ranking: 120th
+Platform: ZX Spectrum 48K
+Use of the word "cack" by me in the game's initial review was arguably a little
+harsh, yet undoubtedly scientifically accurate. Furthermore "cack" is quite a
+complement to be bestowed on a game of this competition. This one is without a
+shadow of a doubt "cascade tape" filler material. In fact I had to play every
+game in the original cascade tape, just to make sure that this wasn't one of
+them. The low score reflects the fact that this one is one of those quickly
+knocked up efforts that keeps the compo rolling on through dark winter nights.
+I hope the low score does not dissuade the author from potential future crap
+game efforts, because if "Cascade 50 Volume Two" ever hits the shelves then a
+place on it must be reserved today for this one! Low ranking just reflects the
+simplicity of the listing and the number of games in the compo. Otherwise,
+job well done!
+
+Advanced PURPLE Loading Simulator
+by BloodBaz
+Filename: apls.tap
+Score: 1.10
+Ranking: 121st
+Platform: ZX Spectrum 16K
+I awarded 1.01 to "Advanced Loading Simulator" and lets be honest, this game
+demands an identical score, but I have felt kind enough to award an additional
+0.09 points since I actually like purple myself. Even if it is an illusion 
+caused by the rapidly fluctuating blue and magenta bands of colour. This was a 
+close one, Bloodbaz in that at one stage, early in 2008 you almost lost the 
+compo and potentially ended up hosting CSSCGC 2009. However, you were saved by
+steve. Such are the tiniest margins between the results	of similar compo
+entries.
+(Edit in 2nd pass of judging: saved from this fate by Guesser, steve and ADJB!) 
+
+Advanced Loading Simulator 
+by steve
+Filename: als.tap 
+Score: 1.01
+Ranking: 122nd
+Platform: ZX Spectrum 16K
+Submitting this "game" is exactly equivalent to writing a note thus
+"Dear Digital Prawn, I would really like to host CSSCGC 2009 and I'm not going
+to let anyone else stop me.".
+You see I once learnt from a certain Chris Young, that there's "crap and there's
+sh*te." Which category can a CGC judge truthfully put this in? 
+(From 1st pass of judging): - You have the baton for 2009 steve, my
+commiserations. I'm sure though you'll have plenty of fun next year though
+judging things like this! 
+(2nd pass of judging): The above was written back in early 2008 - but I can now
+tell you that you completely got away with not quite losing the compo and
+judging CSSCGC 2009, *phew* a close one though!
+
+Lapland Theme Park Manager
+by cruddy software
+Filename: lapland.sna 
+Score: 0.30
+Ranking: 123rd
+Platform: ZX Spectrum 16K (and many others)
+Let me say that I think "cruddy software" are a band of one and that member
+is none other than ADJB. I'm not sure if there were any accomplices to this
+software abomination, but I'm guessing they would keep quiet anyway.  
+This entry was submitted via "Text mode", an experimental feature of CSSCGC
+2008 whereby entrants could post on forums or email me a piece of BASIC,
+assembler or FORTH code for example and I would accept it as a submitted compo
+entry. Perhaps this title has ensured that the experiment will never again be
+repeated in the CGC. The title has one saving grace it is (or was at the time)
+topical and also funny too, or at least I had to write something "funny" around
+it on the site. An amazing trick is that this entry runs completely unmodified
+on ANY of the permitted platforms (including the Jupiter ACE), so has 
+simultaneously become the worst CGC entry on all of those systems at the same
+time.
+If I didn't rank this (which consists solely of the line "10 CLS") last in the 
+compo, then how could I have ever justify making someone else lose whilst this
+exists? Thanks ADJB, you gave us one to remember (or should I say forget)
+but I have to admire the audacity of submitting it!

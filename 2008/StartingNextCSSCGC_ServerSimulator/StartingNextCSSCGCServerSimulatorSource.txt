@@ -1,0 +1,84 @@
+5 REM StartingNextCSSCGCServerSimulator - v0.001
+10 REM A game written using advanced assembly techniques.
+11 REM Source code is encrypted to look like a simple BASIC program but IT'S NOT.
+12 REM (c) Firelord Quality Games LTD (trister12[at]yahoo[dot]gr - Put the word "SPECTRUM" somewhere in the subject line if you mail me )
+13 CLS 
+14 REM ****Intro coding***
+15 RANDOMIZE 
+50 PAPER 4:FLASH 1 : PRINT "  Starting Next -comp.sys.sinclair Crap Games Compo- Server Simulator (c)2008   ":FLASH 0: PAPER 7
+54 PAPER 5: PRINT "You have 0 days 8 hours 23 minutes =184 minutes left until this year CSSCGC ends & you must start the server that will host next year's CSSCGCompetition": PAPER 7
+56 PRINT "A game that transfers all the   excitement of running a CSSCGC  hosting server in the screen of your SPECTRUM. "
+65 INK 6: PAPER 0: PRINT "Written by Firelord.": INK 0: PAPER 7 : PAUSE 0
+66 PRINT 
+68 REM *****initialise control selection menu****
+69 CLS : PRINT "Everything is ready for the server that will host next years comp.sys.sinclair Crap Games Compo : "
+70 GO SUB 4200
+71 GO SUB 4400
+72 REM 
+75 PAPER 7: INK 0:
+83 INK 3: PRINT "Now press any key": INK 0 : PAUSE 0
+90 CLS : REM ***************INITIAL INTRO****************************
+91 LET c=184 : FLASH 1 : PRINT "****Let the SETUP BEGIN****": FLASH 0 : PAUSE 50 : REM game counter
+93 REM ***Init Random Buttons ***
+99 REM ****comments *****
+100 REM GO SUB 5000 :REM 
+101 INVERSE 1: PRINT "--------------------------------": 
+102 PRINT "The server still refuses to start... ... "
+103 PRINT "You have ";:FLASH 1 :PRINT ;c;:FLASH 0:PRINT ;" Minutes until this year CSSCGC starts. HURRY!!! ": INVERSE 0
+110 INK 0 : PAPER 4 : PRINT "Taking a closer look you can see the cause of the problem... : ": PAPER 7
+120 GO SUB 4090
+140 INK 0 : PAPER 4 : PRINT "Cable 1 that is colored : ": PAPER 7
+150 GO SUB 5090
+160 INK 0 : PAPER 4 : PRINT "Cable 2 that is colored : ": PAPER 7
+170 GO SUB 5090
+175 INK 0 : PAPER 4 : PRINT "Cable 3 that is colored : ": PAPER 7
+177 GO SUB 5090 
+180 INK 0 : PAPER 4 : PRINT "Cable 4 that is colored : ": PAPER 7
+190 GO SUB 5090
+1200 INK 0: BRIGHT 1 : PRINT "What cables do you want to connect? ": INPUT "Enter their numbers ,seperated by a comma (eg 2,4) and press enter :",P$ : BRIGHT 0
+1201 LET c=c-15
+1950 PAUSE 20: INK 0: PAPER 7
+1952 IF c<0  THEN GO TO 2000
+1960 GO TO 95
+2000 
+2010 PRINT :FLASH 1:  PRINT "You FAILED. The server did not start in time!!!": FLASH 0
+2015 PRINT "Now the billion of angry spectrum fans will try and shoot you... you better hide!!! ":PAUSE 0
+2020 CLS : INK 5 : FLASH 1 : PRINT " There is a chance though that the world will reward you -since you got rid of that Crap Game Compatition and make our world a better aplace without all this Crap stuff... " : FLASH 0
+2030 PRINT "You can restart the experience by typing RUN & (ENTER)"
+2100 STOP 
+3000 STOP 
+4089 REM *** Advanced Algorithm that calculates the description ****
+4090 PAPER 7: INK 0: GO TO 4100+10*INT (RND*6)
+4095 REM *** Language configuration ***
+4100 INK 4: PRINT "The cables are been cut with a razor blade... Hmm SABOTAGE!!!": RETURN 
+4110 INK 4: PRINT "You forgot to connect these cables because you were watching adult material in your PC... ": RETURN 
+4120 INK 4: PRINT "You left these cables on the air because you thought they were not usefull": RETURN 
+4130 INK 4: PRINT "You didn't like the color combination of these cables so you left them disconnected.": RETURN 
+4140 INK 4: PRINT "You never thought that all electronic devices needed power to work": RETURN 
+4150 INK 4: PRINT "You see 4 cables near sothing that is ticking & counting downwards...You think that it's the countdown of the old CSSCGC compo": RETURN 
+4160 INK 4: PRINT "The problem seem to be that there are some colored cables arround...": RETURN 
+4199 REM *** ####### selection list ***
+4200 CLS : PAPER 5: PRINT "  Everything is ready , you press the START APACHE shortcut but   ":FLASH 1 : PRINT "- NOTHING HAPPENS!!! OMG !!!!  -":FLASH 0 : PAPER 7 
+4205 PAPER 7: INK 0
+4207 PRINT "You think for a while and you   realise that... :":RANDOMIZE
+
+4333 PRINT "SOMETHING IS VERY WRONG !!!!!!!!!"
+4340 RETURN 
+4400 REM *** accept ####### selection ***
+4404 PRINT "The server did not start... You look arround and you see some cables that are disconnected in front of you. Maybe thats the problem and it's not software related... "
+4405 PRINT "Please DON'T PANIC & press ANY key  ":PAUSE 0
+4407 PAPER 6 : INK 4 :
+4495 RETURN
+
+
+4499 GO TO 4400
+5089 REM *** Advanced Algorithm that calculates the cable color ****
+5090 PAPER 7: INK 3: GO TO 5100+10*INT (RND*7)
+5095 REM ***  ***
+5100 PRINT "#56CA5B.": RETURN 
+5110 PRINT "Green. ": RETURN 
+5120 PRINT "Yellow.": RETURN 
+5130 PRINT "Covered with dirt so you can't see.": RETURN 
+5140 PRINT "Greenish with yellowish stripes.": RETURN 
+5150 PRINT "Pink.": RETURN 
+5180 PRINT "Brown.": RETURN 
