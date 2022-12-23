@@ -1,0 +1,58 @@
+The Adventures of the Real Cookie Man
+-------------------------------------
+
+Introduction
+------------
+Firelord Quality Games - Prehistoric Research Department presents an amazing action game.
+
+
+Story
+-----
+This is the beginning of an epic adventure.
+The story begins in the prehistoric era.
+You are Charlie the Tribe Chef -also Known as Cookie Man. You are famous for your T-Rex-Bone steaks!
+
+
+Instructions
+------------
+You must find your way in the cave maze. Your daily goal is to cook a meal for your tribe. The storage rooms are infested with prehistoric monsters.
+You must get the ingredients from the monsters and cook them.
+
+Controls
+--------
+Game features many control options:
+1. Voice Command - Need the 2GB ZX Spectrum memory expansion and the new Intel-based Z80 CPU.
+2. Mind control - Has been disabled because it was discovered that the control commands were going both ways.
+3. Joy-Stick. This is a prehistoric tool. It is a long stick that allows you to push keys from a distance.
+4. keyboard - If you decide to use keyboard you will be able to type commands using your keys. You can talk to the computer like talking to a real person!
+
+
+Features
+--------
+-Many unique locations
+-Many rare dinosaurs
+-Many weapons to use
+-Unique Combat System -U.C.S. (TM)
+-Many cooking ingradients to use
+-Amazing Typing Action
+-Implements Prehistoric Cooking techniques
+-Secret Cave drawings
+
+Systems Supported
+-----------------
+ZX Spectrum
+Amstrad CPC464
+C64
+CP/M
+Sharp-MZ80A
+TRS80
+LVM (Virtual Machine file for DOS etc)
+
+
+Credits
+-------
+-Created by Firelord Quality Games
+using
+Firelord Crap Lantern Adventure Generator
+and
+Lantern Adventure System
